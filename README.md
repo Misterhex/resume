@@ -25,11 +25,9 @@ I am an experienced Engineering Lead with a focus on platform development.
 **Enterprise Service Bus Modernization**
 - Transformed ESB architecture into cloud-native, containerized solutions.
 - Enhanced observability and CI/CD practices for improved scalability and resilience.
-
-#### Responsibilities:
 - Lead Catalyst program for modernizing SCB ESB.
 - Transition ESB from monolithic JVM apps to 12-factor compliant containers.
-- Manage a cross-regional team of 10 engineers.
+- Manage a cross-regional team of 10 engineers, mix of platform engineers and integration specialists.
 - Align with central Catalyst team on architecture, timelines, and delivery.
 - Hands-on technical contributions including code commits and backlog management.
 - Migrate observability stack to Prometheus/Grafana/Elasticsearch.
@@ -47,8 +45,6 @@ I am an experienced Engineering Lead with a focus on platform development.
 
 ---
 
----
-
 ### **Engineering Lead (M22)**  
 **Standard Chartered**  
 *Apr 2021 – Mar 2024*
@@ -61,9 +57,6 @@ I am an experienced Engineering Lead with a focus on platform development.
 - Mentored team on build and deployment assets (Java, Docker, Helm, Ansible, Terraform).
 - Uplifted security posture during migration.
 - Completed within 5 months.
-
-#### Project: Enterprise Service Bus Modernisation
-- Continued modernization efforts from earlier phase.
 
 ---
 
