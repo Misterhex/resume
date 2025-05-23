@@ -50,7 +50,7 @@ I am an experienced Engineering Lead with a focus on platform development.
 *Apr 2021 – Mar 2024*
 
 **Ongoing Responsibilities:**
-- Maintain OpenShift and Observability Platforms.
+- Integration Services Observability Platforms.
 
 #### Project: Azure DevOps Migration
 - Led migration of ~900 repositories and pipelines.
