@@ -109,11 +109,3 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 
 - **Temasek Polytechnic**  
   *Diploma in Information Technology*
-
----
-
-## **Certifications**
-
-- **AWS Certified Solutions Architect – Associate**  
-  Amazon Web Services (AWS)  
-  *License: GFKY9CT2CN1Q11SN*
