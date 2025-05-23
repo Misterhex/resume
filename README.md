@@ -8,7 +8,7 @@ Singapore
 ---
 
 ## **Summary**
-I am an experienced Engineering Lead with a focus on platform development.
+I am an experienced hands-on Engineering Lead specializing in platform development, observability, and cloud-native solutions.
 
 ---
 
