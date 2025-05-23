@@ -37,6 +37,9 @@ I am an experienced Engineering Lead with a focus on platform development.
 - Develop CI/CD linting tools with Spring Boot and custom Gradle plugins.
 - Deploy ESBs on OpenShift (Kubernetes) and RHEL9/Podman using Ansible.
 
+**Catalyst Datacenter Migration**
+- Led the migration of a containerized, large-scale federated monolith ESB from a single datacenter to multiple geo-distributed datacenters, implementing geo-resiliency, automated failover, and disaster recovery. Designed and executed progressive migration strategies to safely shift business traffic to the new setup.
+
 **Horizontal Role: Internal Development Platform Guild Lead**
 - IDP guild lead for messaging platforms.
 - Architected solutioning and implementation of distributed tracing spanning various messaging platforms, enabling inter-hop tracing of transactions across messaging platforms, API gateway, Solace, MQ, etc., from client systems to provider systems.
