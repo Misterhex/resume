@@ -14,66 +14,50 @@ I am an experienced Engineering Lead with a focus on platform development.
 
 ## **Experience**
 
-### **Engineering Lead (M23)**  
+### **Engineering Lead**  
 **Standard Chartered**  
-*Apr 2024 – Present*
+*May 2018 – Present*
 
-**Promotion to Grade M23**  
-**Platform / Catalyst Program Lead**
+#### **Career Progression**
+- Technical Lead (M21): May 2018 – Apr 2021  
+- Engineering Lead (M22): Apr 2021 – Mar 2024  
+- Engineering Lead (M23): Apr 2024 – Present
+- Led cross-regional teams of 10+ platform engineers.
 
-#### Key Project:
-**Enterprise Service Bus Modernization**
-- Transformed ESB architecture into cloud-native, containerized solutions.
-- Enhanced observability and CI/CD practices for improved scalability and resilience.
-- Lead Catalyst program for modernizing SCB ESB.
-- Transition ESB from monolithic JVM apps to 12-factor compliant containers.
-- Manage a cross-regional team of 10 engineers, mix of platform engineers and integration specialists.
-- Align with central Catalyst team on architecture, timelines, and delivery.
-- Hands-on technical contributions including code commits and backlog management.
-- Migrate observability stack to Prometheus/Grafana/Elasticsearch.
-- Build custom exporters and introspection APIs using Spring Boot (Java).
-- Develop CI/CD linting tools with Spring Boot and custom Gradle plugins.
-- Deploy ESBs on OpenShift (Kubernetes) and RHEL9/Podman using Ansible.
+#### **Key Projects & Achievements**
 
-**Catalyst Datacenter Migration**
-- Led the migration of a containerized, large-scale federated monolith ESB from a single datacenter to multiple geo-distributed datacenters, implementing geo-resiliency, automated failover, and disaster recovery. Designed and executed progressive migration strategies to safely shift business traffic to the new setup.
+- **Integration Services Observability Platforms**
+  - Designed and implemented the Telemetry Hub observability platform for SCB’s integration middleware.
+  - Built numerous microservices for Prometheus exporters, log-to-metrics streaming, and distributed tracing observability solutions.
+  - Managed 2TB logs/day and 50,000 events/sec.
+  - Deployed and maintained 4 Elasticsearch clusters (including 2 regional, localized clusters) with zero-downtime updates via Ansible.
+  - Orchestrated telemetry agents (Fluentd, FluentBit, Filebeat, etc.) on Kubernetes and integrated Kafka for telemetry streaming.
+  - Integrated OpenTelemetry and Elastic APM for end-to-end traceability.
 
-**Horizontal Role: Internal Development Platform Guild Lead**
-- IDP guild lead for messaging platforms.
-- Architected solutioning and implementation of distributed tracing spanning various messaging platforms, enabling inter-hop tracing of transactions across messaging platforms, API gateway, Solace, MQ, etc., from client systems to provider systems.
-- Architected and build introspection api for messaging products. Provide developer experience to self-service query and introspect their flow and transactions. 
+- **ESB Modernization**
+  - Led the multi-year modernization of the Enterprise Service Bus (ESB) to a cloud-native, containerized architecture.
+  - Transitioned ESB from monolithic JVM applications to 12-factor compliant microservices.
+  - Enhanced observability and CI/CD practices for improved scalability and resilience.
+  - Managed a cross-regional team of 10+ engineers (platform and integration specialists).
+  - Oversaw architecture, timelines, and delivery in alignment with the central Catalyst team.
+  - Hands-on technical delivery including code commits, backlog management, and custom tooling.
+  - Migrated observability stack to Prometheus/Grafana/Elasticsearch; developed custom exporters and introspection APIs with Spring Boot (Java).
+  - Deployed ESBs on OpenShift (Kubernetes) and RHEL9/Podman using Ansible.
 
----
+- **Catalyst Datacenter Migration**
+  - Led the migration of a large-scale, containerized federated monolith ESB from a single datacenter to multiple geo-distributed sites.
+  - Achieved geo-resiliency, automated failover, and disaster recovery.
 
-### **Engineering Lead (M22)**  
-**Standard Chartered**  
-*Apr 2021 – Mar 2024*
+- **Internal Development Platform Guild Lead**
+  - Guild lead for messaging platforms.
+  - Architected distributed tracing across messaging platforms (API gateway, Solace, etc.) for inter-hop transaction tracing.
+  - Delivered introspection APIs to empower developers with self-service flow and transaction insights.
 
-**Ongoing Responsibilities:**
-- Integration Services Observability Platforms.
-
-#### Project: Azure DevOps Migration
-- Led migration of ~900 repositories and pipelines.
-- Mentored team on build and deployment assets (Java, Docker, Helm, Ansible, Terraform).
-- Uplifted security posture during migration.
-- Completed within 5 months.
-
----
-
-### **Technical Lead (M21)**  
-**Standard Chartered**  
-*May 2018 – Apr 2021*
-
-- Dual role: Led a team of 4 engineers and served as Chapter Lead for Observability.
-- Designed and implemented **Telemetry Hub** for SCB’s integration middleware.
-
-#### Key Achievements:
-- Managed 1TB log/day and 40,000 events/sec.
-- Used Kafka for telemetry and managed Elasticsearch clusters on Kubernetes.
-- Deployed telemetry agents (Fluentd, FluentBit, Filebeat, etc.).
-- Built Prometheus exporters using Spring Boot Java.
-- Implemented OpenTelemetry and Elastic APM.
-- Maintained 4 on-prem Elasticsearch clusters with zero-downtime updates via Ansible.
+- **Azure DevOps Migration**
+  - Led migration of 2,700+ repositories and pipelines.
+  - Collaborated with the central CI/CD team to develop build and deployment CI/CD patterns tailored to our requirements.
+  - Mentored teams in modern build/deploy practices (Java, Docker, Helm, Ansible, Terraform).
+  - Uplifted security posture during migration.
 
 ---
 
