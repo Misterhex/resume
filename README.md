@@ -40,6 +40,7 @@ I am an experienced Engineering Lead with a focus on platform development.
 **Horizontal Role: Internal Development Platform Guild Lead**
 - IDP guild lead for messaging platforms.
 - Architected solutioning and implementation of distributed tracing spanning various messaging platforms, enabling inter-hop tracing of transactions across messaging platforms, API gateway, Solace, MQ, etc., from client systems to provider systems.
+- Architected and build introspection api for messaging products. Provide developer experience to self-service query and introspect their flow and transactions. 
 
 ---
 
