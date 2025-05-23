@@ -37,6 +37,12 @@ I am an experienced Engineering Lead with a focus on platform development.
 - Develop CI/CD linting tools with Spring Boot and custom Gradle plugins.
 - Deploy ESBs on OpenShift (Kubernetes) and RHEL9/Podman using Ansible.
 
+**Horizontal Role: Internal Development Platform Guild Lead**
+- IDP guild lead for messaging platforms.
+- Architected solutioning and implementation of distributed tracing spanning various messaging platforms, enabling inter-hop tracing of transactions across messaging platforms, API gateway, Solace, MQ, etc., from client systems to provider systems.
+
+---
+
 ---
 
 ### **Engineering Lead (M22)**  
