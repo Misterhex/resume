@@ -41,7 +41,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Hands-on technical delivery including code commits, backlog management, and custom tooling.
   - Migrated legacy monitoring to modern cloud native Prometheus/Opentelemtry/Grafana/Elasticsearch.
   - Deploymrnt pipleine of on OpenShift (Kubernetes) and also RHEL9/Podman using Ansible.
-  - Drive the geo resilient architecture design from a single datacenter to multi geo-distributed sites. Achieved geo-resiliency, automated failover, and disaster recovery.
+  - Drive the geo resilient architecture design from a single datacenter to new datacenters of multi geo-distributed sites. Achieved geo-resiliency, automated failover, and disaster recovery.
  
 - ** Commmon Runtime Squad **
   - Lead our Internal Developer Platform (IDP), built on top of OpenShift Container Platform.
