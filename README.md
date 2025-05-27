@@ -34,7 +34,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Orchestrated telemetry agents (Fluentd, FluentBit, Filebeat, etc.) on Kubernetes and integrated Kafka for telemetry streaming.
   - Integrated OpenTelemetry and Elastic APM for end-to-end traceability.
 
-- **ESB Modernization**
+- **ESB Modernization and Datacenter Migration**
   - Led the multi-year modernization of the Enterprise Service Bus (ESB) to a cloud-native, containerized architecture.
   - Transitioned ESB from monolithic JVM applications to 12-factor compliant microservices.
   - Enhanced observability and CI/CD practices for improved scalability and resilience.
@@ -43,8 +43,6 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Hands-on technical delivery including code commits, backlog management, and custom tooling.
   - Migrated observability stack to Prometheus/Grafana/Elasticsearch; developed custom exporters and introspection APIs with Spring Boot (Java).
   - Deployed ESBs on OpenShift (Kubernetes) and RHEL9/Podman using Ansible.
-
-- **Catalyst Datacenter Migration**
   - Led the migration of a large-scale, containerized federated monolith ESB from a single datacenter to multiple geo-distributed sites.
   - Achieved geo-resiliency, automated failover, and disaster recovery.
 
