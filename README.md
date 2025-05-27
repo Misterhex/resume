@@ -22,7 +22,8 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 - Technical Lead (M21): May 2018 – Apr 2021  
 - Engineering Lead (M22): Apr 2021 – Mar 2024  
 - Engineering Lead (M23): Apr 2024 – Present
-- Led cross-regional teams of 10+ platform engineers.
+- Led cross-regional teams of 10+ platform engineers
+- Led the internal developer platform guild
 
 #### **Key Projects & Achievements**
 
@@ -35,13 +36,12 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Led the multi-year modernization of the Enterprise Service Bus (ESB) to a cloud-native, containerized architecture.
   - Transitioned ESB from monolithic JVM applications to 12-factor cloud native apps.
   - Enhanced observability and CI/CD practices for improved scalability and resilience.
-  - Managed a cross-regional team of 10+ engineers (platform and integration specialists).
-  - Oversaw architecture, timelines, and delivery in alignment with the central Catalyst team.
+  - Managed a cross-regional team of 10+ engineers.
+  - Oversaw architecture, timelines, and delivery in alignment with the central program team.
   - Hands-on technical delivery including code commits, backlog management, and custom tooling.
-  - Migrated observability stack to Prometheus/Grafana/Elasticsearch; developed custom exporters and introspection APIs with Spring Boot (Java).
-  - Deployed ESBs on OpenShift (Kubernetes) and RHEL9/Podman using Ansible.
-  - Led the migration of a large-scale, containerized federated monolith ESB from a single datacenter to multiple geo-distributed sites.
-  - Achieved geo-resiliency, automated failover, and disaster recovery.
+  - Migrated legacy monitoring to modern cloud native Prometheus/Opentelemtry/Grafana/Elasticsearch.
+  - Deploymrnt pipleine of on OpenShift (Kubernetes) and also RHEL9/Podman using Ansible.
+  - Drive the geo resilient architecture design from a single datacenter to multi geo-distributed sites. Achieved geo-resiliency, automated failover, and disaster recovery.
  
 - ** Commmon Runtime Squad **
   - Lead our Internal Developer Platform (IDP), built on top of OpenShift Container Platform.
