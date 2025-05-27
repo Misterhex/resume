@@ -26,13 +26,10 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 
 #### **Key Projects & Achievements**
 
-- **Integration Services Observability Platforms**
-  - Designed and implemented the Telemetry Hub observability platform for SCB’s integration middleware.
-  - Built numerous microservices for Prometheus exporters, log-to-metrics streaming, and distributed tracing observability solutions.
-  - Managed 2TB logs/day and 50,000 events/sec.
-  - Deployed and maintained 4 Elasticsearch clusters (including 2 regional, localized clusters) with zero-downtime updates via Ansible.
-  - Orchestrated telemetry agents (Fluentd, FluentBit, Filebeat, etc.) on Kubernetes and integrated Kafka for telemetry streaming.
-  - Integrated OpenTelemetry and Elastic APM for end-to-end traceability.
+- **Internal Development Platform Guild Lead**
+  - Guild lead for messaging platforms.
+  - Architected distributed tracing across messaging platforms (API gateway, Solace, etc.) for inter-hop transaction tracing.
+  - Delivered introspection APIs to empower developers with self-service flow and transaction insights.
 
 - **ESB Modernization and Datacenter Migration**
   - Led the multi-year modernization of the Enterprise Service Bus (ESB) to a cloud-native, containerized architecture.
@@ -46,10 +43,13 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Led the migration of a large-scale, containerized federated monolith ESB from a single datacenter to multiple geo-distributed sites.
   - Achieved geo-resiliency, automated failover, and disaster recovery.
 
-- **Internal Development Platform Guild Lead**
-  - Guild lead for messaging platforms.
-  - Architected distributed tracing across messaging platforms (API gateway, Solace, etc.) for inter-hop transaction tracing.
-  - Delivered introspection APIs to empower developers with self-service flow and transaction insights.
+- **Integration Services Observability Platforms**
+  - Designed and implemented the Telemetry Hub observability platform for SCB’s integration middleware.
+  - Built numerous microservices for Prometheus exporters, log-to-metrics streaming, and distributed tracing observability solutions.
+  - Managed 2TB logs/day and 50,000 events/sec.
+  - Deployed and maintained 4 Elasticsearch clusters (including 2 regional, localized clusters) with zero-downtime updates via Ansible.
+  - Orchestrated telemetry agents (Fluentd, FluentBit, Filebeat, etc.) on Kubernetes and integrated Kafka for telemetry streaming.
+  - Integrated OpenTelemetry and Elastic APM for end-to-end traceability.
 
 - **Azure DevOps Migration**
   - Led migration of 2,700+ repositories and pipelines.
