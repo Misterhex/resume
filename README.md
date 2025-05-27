@@ -33,7 +33,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 
 - **ESB Modernization and Datacenter Migration**
   - Led the multi-year modernization of the Enterprise Service Bus (ESB) to a cloud-native, containerized architecture.
-  - Transitioned ESB from monolithic JVM applications to 12-factor compliant microservices.
+  - Transitioned ESB from monolithic JVM applications to 12-factor cloud native apps.
   - Enhanced observability and CI/CD practices for improved scalability and resilience.
   - Managed a cross-regional team of 10+ engineers (platform and integration specialists).
   - Oversaw architecture, timelines, and delivery in alignment with the central Catalyst team.
