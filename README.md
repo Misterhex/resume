@@ -27,7 +27,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 #### **Key Projects & Achievements**
 
 - **Internal Development Platform Guild Lead**
-  - Guild lead for messaging platforms.
+  - Work closely with Head of Platform to map out landscape and identity horizontal streams to advance closer towards IDP vision.
   - Architected distributed tracing across messaging platforms (API gateway, Solace, etc.) for inter-hop transaction tracing.
   - Delivered introspection APIs to empower developers with self-service flow and transaction insights.
 
