@@ -42,6 +42,18 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Deployed ESBs on OpenShift (Kubernetes) and RHEL9/Podman using Ansible.
   - Led the migration of a large-scale, containerized federated monolith ESB from a single datacenter to multiple geo-distributed sites.
   - Achieved geo-resiliency, automated failover, and disaster recovery.
+ 
+- ** Commmon Runtime Squad **
+  - Lead our Internal Developer Platform (IDP), built on top of OpenShift Container Platform.
+  - Developed and maintained CI/CD pipelines, and standardized observability patterns leveraging the Elasticsearch stack.
+  - Manage a squad of 5 platform engineers, supporting over 100 engineers and building integration solutions on our OpenShift clusters.
+  - Manage 8 openshift kubernetes clusters, including security and RBAC control.
+  - Observability of openshift clusters, monitoring of pods and containers. Define observability pattern for integrating application specific metrics.
+
+- ** Integration Services Cloud Enablement **
+  - Led engineering efforts to modernize and cloud-enable the enterprise integration middleware platform.
+  - Partnered with the central cloud team to pilot SCB’s early cloud deployments, co-developing foundational Terraform modules.
+  - Designed and implemented infrastructure provisioning pipelines using Ansible pull, EC2 Auto Scaling Groups, and cloud-init (user data) scripts; standardized base installation scripts to streamline deployment.
 
 - **Integration Services Observability Platforms**
   - Designed and implemented the Telemetry Hub observability platform for SCB’s integration middleware.
