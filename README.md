@@ -42,9 +42,9 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Drive the geo resilient architecture design from a single datacenter to new datacenters of multi geo-distributed sites. Achieved geo-resiliency, automated failover, and disaster recovery.
  
 - **Runtime Squad**
-  - Manage a squad of 5 platform engineers, supporting over 100 engineers and building integration solutions on our OpenShift clusters.
-  - Developed and maintained CI/CD pipelines and standardized observability patterns using the Elasticsearch stack. Defined golden paths for developers to deploy applications on OpenShift, incorporating CI/CD workflows, isolated Kubernetes namespaces, resource quota enforcement, RBAC, and Security Context Constraints (SCC). Provided end-to-end platform observability for the OpenShift environment.
-  - Manage 8 openshift kubernetes clusters.
+  - Lead a squad of 5 platform engineers, supporting 100+ engineers to build and deploy containers on our OpenShift clusters.
+  - Defined golden paths for developers to deploy applications on OpenShift, provide CI/CD pipelines to deploy helm charts, and pipeline to manage kubernetes namespaces, resource quota, RBAC, and Security Context Constraints (SCC), Nodeports, CRDs, and Provided end-to-end platform observability for the OpenShift environment.
+  - Manage 8 openshift container platform clusters.
   - Observability of openshift clusters, monitoring of pods and containers. Define observability pattern for integrating application specific metrics.
 
 - **Integration Services Cloud Enablement**
