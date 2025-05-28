@@ -42,11 +42,10 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Deploymrnt pipleine of on OpenShift (Kubernetes) and also RHEL9/Podman using Ansible.
   - Drive the geo resilient architecture design from a single datacenter to new datacenters of multi geo-distributed sites. Achieved geo-resiliency, automated failover, and disaster recovery.
  
-- ** Commmon Runtime Squad **
-  - Lead our Internal Developer Platform (IDP), built on top of OpenShift Container Platform.
-  - Developed and maintained CI/CD pipelines, and standardized observability patterns leveraging the Elasticsearch stack.
+- **Runtime Squad**
   - Manage a squad of 5 platform engineers, supporting over 100 engineers and building integration solutions on our OpenShift clusters.
-  - Manage 8 openshift kubernetes clusters, including security and RBAC control.
+  - Developed and maintained CI/CD pipelines and standardized observability patterns using the Elasticsearch stack. Defined golden paths for developers to deploy applications on OpenShift, incorporating CI/CD workflows, isolated Kubernetes namespaces, resource quota enforcement, RBAC, and Security Context Constraints (SCC). Provided end-to-end platform observability for the OpenShift environment.
+  - Manage 8 openshift kubernetes clusters.
   - Observability of openshift clusters, monitoring of pods and containers. Define observability pattern for integrating application specific metrics.
 
 - ** Integration Services Cloud Enablement **
