@@ -22,7 +22,6 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 - Technical Lead (M21): May 2018 – Apr 2021  
 - Engineering Lead (M22): Apr 2021 – Mar 2024  
 - Engineering Lead (M23): Apr 2024 – Present
-- Led cross-regional teams of 10+ platform engineers
 
 #### **Key Projects & Achievements**
 
