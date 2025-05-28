@@ -50,7 +50,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 - ** Integration Services Cloud Enablement **
   - Led engineering efforts to modernize and cloud-enable the enterprise integration middleware platform.
   - Partnered with the central cloud team to pilot SCB’s early cloud deployments, co-developing foundational Terraform modules.
-  - Designed and implemented infrastructure provisioning pipelines using Ansible pull, EC2 Auto Scaling Groups, and cloud-init (user data) scripts; standardized base installation scripts to streamline deployment.
+  - Post infrastructure provisioning, designed configurations pattern using Ansible pull, EC2 Auto Scaling Groups, and cloud-init (user data) scripts; standardized base installation scripts to streamline deployment.
 
 - **Integration Services Observability Platforms**
   - Designed and implemented the Telemetry Hub observability platform for SCB’s integration middleware.
