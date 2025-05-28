@@ -47,12 +47,12 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Manage 8 openshift kubernetes clusters.
   - Observability of openshift clusters, monitoring of pods and containers. Define observability pattern for integrating application specific metrics.
 
-- ** Integration Services Cloud Enablement **
+- **Integration Services Cloud Enablement**
   - Led engineering efforts to modernize and cloud-enable the enterprise integration middleware platform.
   - Partnered with the central cloud team to pilot SCB’s early cloud deployments, co-developing foundational Terraform modules.
   - Post infrastructure provisioning, designed configurations pattern using Ansible pull, EC2 Auto Scaling Groups, and cloud-init (user data) scripts; standardized base installation scripts to streamline deployment.
 
-- **Integration Services Observability Platforms**
+- **Integration Services Observability Platform**
   - Designed and implemented the Telemetry Hub observability platform for SCB’s integration middleware.
   - Built numerous microservices for Prometheus exporters, log-to-metrics streaming, and distributed tracing observability solutions.
   - Managed 2TB logs/day and 50,000 events/sec.
@@ -61,7 +61,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Integrated OpenTelemetry and Elastic APM for end-to-end traceability.
 
 - **Azure DevOps Migration**
-  - Led migration of 2,700+ repositories and pipelines.
+  - Led migration of 1000+ repositories and pipelines.
   - Collaborated with the central CI/CD team to develop build and deployment CI/CD patterns tailored to our requirements.
   - Mentored teams in modern build/deploy practices (Java, Docker, Helm, Ansible, Terraform).
   - Uplifted security posture during migration.
