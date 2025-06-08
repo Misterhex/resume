@@ -19,9 +19,9 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 *May 2018 – Present*
 
 #### **Career Progression**
-- Technical Lead (M21): May 2018 – Apr 2021  
-- Engineering Lead (M22): Apr 2021 – Mar 2024  
-- Engineering Lead (M23): Apr 2024 – Present
+- Technical Lead (Grade M21): May 2018 – Apr 2021  
+- Engineering Lead (Grade M22): Apr 2021 – Mar 2024  
+- Engineering Lead (Grade M23): Apr 2024 – Present
 
 #### **Key Projects & Achievements**
 
