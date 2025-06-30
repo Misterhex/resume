@@ -19,7 +19,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 
 ### **Engineering Lead**  
 **Standard Chartered**  
-*May 2018 – Present*
+*May 2018 – July 2025 ( Present )*
 
 #### **Career Progression**
 - Technical Lead (SCB Grade M21): May 2018 – Apr 2021  
