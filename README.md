@@ -19,22 +19,23 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 *May 2018 – Present*
 
 #### **Career Progression**
-- Technical Lead (Grade M21): May 2018 – Apr 2021  
-- Engineering Lead (Grade M22): Apr 2021 – Mar 2024  
-- Engineering Lead (Grade M23): Apr 2024 – Present
+- Technical Lead (SCB Grade M21): May 2018 – Apr 2021  
+- Engineering Lead (SCB Grade M22): Apr 2021 – Mar 2024  
+- Engineering Lead (SCB Grade M23): Apr 2024 – Present
 
 #### **Key Projects & Achievements**
 
-- **Internal Development Platform Guild Lead**
-  - Work closely with Head of Platform to map out landscape and identity horizontal streams to advance closer towards IDP vision.
+- **Internal Development Platform Chapter Lead**
+  - Work closely with Head of Platform to map out landscape and identity horizontal workstreams to advance closer towards IDP vision.
+  - Technically pivot between multiple messaging platform areas.
   - Architected distributed tracing across messaging platforms (API gateway, Solace, etc.) for inter-hop transaction tracing.
-  - Delivered introspection APIs to empower developers with self-service flow and transaction insights.
+  - Lead the build of introspection APIs to empower developers with self-service flow and transaction insights.
 
 - **ESB Modernization and Datacenter Migration**
   - Led the multi-year modernization of the Enterprise Service Bus (ESB) to a cloud-native, containerized architecture.
   - Transitioned ESB from monolithic JVM applications to 12-factor cloud native apps.
   - Enhanced observability and CI/CD practices for improved scalability and resilience.
-  - Managed a cross-regional team of 10+ engineers.
+  - Managed a cross-regional team of 14 engineers.
   - Oversaw architecture, timelines, and delivery in alignment with the central program team.
   - Hands-on technical delivery including code commits, backlog management, and custom tooling.
   - Migrated legacy monitoring to modern cloud native Prometheus/Opentelemtry/Grafana/Elasticsearch.
