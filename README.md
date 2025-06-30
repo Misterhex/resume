@@ -28,7 +28,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 
 #### **Key Projects & Achievements**
 
-- **Internal Development Platform Chapter Lead**
+- **IDP Chapter Lead**
   - Work closely with Head of Platform to map out landscape and identity horizontal workstreams to advance closer towards IDP vision.
   - Technically pivot between multiple messaging platform areas.
   - Architected distributed tracing across messaging platforms (API gateway, Solace, etc.) for inter-hop transaction tracing.
