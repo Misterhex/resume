@@ -1,8 +1,11 @@
 
 # **Tan Yong Heng**
 Singapore  
+
 📧 yongheng0905@gmail.com
+
 📞 +65-94301218  
+
 [LinkedIn](https://www.linkedin.com/in/tanyongheng)
 
 ---
