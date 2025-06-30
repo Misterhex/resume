@@ -1,7 +1,7 @@
 
 # **Tan Yong Heng**
 Singapore  
-📧 yongheng@live.com.sg  
+📧 yongheng0905@gmail.com
 📞 +65-94301218  
 [LinkedIn](https://www.linkedin.com/in/tanyongheng)
 
