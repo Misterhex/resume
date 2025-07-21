@@ -34,8 +34,8 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Architected distributed tracing across messaging platforms (API gateway, Solace, etc.) for inter-hop transaction tracing.
   - Lead the build of introspection APIs to empower developers with self-service flow and transaction insights.
 
-- **ESB Modernization and Datacenter Migration**
-  - Led the multi-year modernization of the Enterprise Service Bus (ESB) to a cloud-native, containerized architecture.
+- **Modernization and Datacenter Migration**
+  - Led the multi-year modernization of an Enterprise Service Bus (ESB) to a cloud-native, containerized architecture.
   - Transitioned ESB from monolithic JVM applications to 12-factor cloud native apps.
   - Enhanced observability and CI/CD practices for improved scalability and resilience.
   - Managed a cross-regional team of 14 engineers.
