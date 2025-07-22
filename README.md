@@ -38,7 +38,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Lead a squad of 14 engineers.
   - Lead the massive multi-year modernization of highly integrated Enterprise Service Bus (ESB), connected by 1000+ applications in the bank.
   - Re-platform entire platform to cloud-native containerized solutions.
-  - Re-built and modernize entire observability stack on opensource to decouple from vendor solution; logs, metrics, distributed tracing, Prometheus/Opentelemtry/Grafana/Elasticsearch.
+  - Re-built and modernize entire observability stack to build on opensource; logs, metrics, distributed tracing, Prometheus/Opentelemtry/Grafana/Elasticsearch.
   - Enforced 100% end-to-end CI/CD practices on integration developers.
   - Deployment pipleine to OpenShift (Kubernetes) via Helm3 and RHEL9/Podman via Ansible.
   - Oversaw architecture, timelines, and delivery in alignment with the central program team for datacenter migration.
