@@ -35,7 +35,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Architected service registry to track system connectivity between our platforms and 1000+ connected applications in the bank.
 
 - **Platform Modernization and Datacenter Migration**
-  - Managed a cross-regional team of 14 engineers.
+  - Lead a squad of 14 engineers.
   - Lead the massive multi-year modernization of highly integrated Enterprise Service Bus (ESB), connected by 1000+ applications in the bank.
   - Re-platform entire platform to cloud-native containerized solutions.
   - Re-built and modernize entire observability stack on opensource to decouple from vendor solution; logs, metrics, distributed tracing, Prometheus/Opentelemtry/Grafana/Elasticsearch.
