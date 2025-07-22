@@ -31,7 +31,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 - **Internal Developer Platform Chapter Lead**
   - Work closely with Head of Platform to map out landscape and identity horizontal workstreams to advance closer towards IDP vision.
   - Expected to technically pivot between multiple platform and product areas.
-  - Architected distributed tracing across messaging platforms (API gateway, Solace, etc.) for inter-hop transaction tracing.
+  - Architected distributed tracing across internal middleware platforms (API gateway, Mesasging Broker, Enterprise Service Bus, etc.) for inter-hop transaction/message tracing.
   - Architected service registry to track system connectivity between our platforms and 1000+ connected applications in the bank.
 
 - **Platform Modernization and Datacenter Migration**
