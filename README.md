@@ -44,7 +44,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Oversaw architecture, timelines, and delivery in alignment with the central program team for datacenter migration.
   - Migrate new solutions to new geo datacenters, high availability load balancing in single region, dns switch between geo sites.
   - Drive the geo resilient architecture design from a single datacenter to new datacenters of multi geo-distributed sites.
-  - Define the move based dns strategy and approach to manage migrations and e2e testing of connected 1000+ applications.
+  - Define the move based dns strategy approach to manage migrations with connected 1000+ applications.
  
 - **Core Runtime Kubernetes**
   - Lead a squad of 7 platform engineers.
