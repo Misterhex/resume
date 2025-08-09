@@ -17,22 +17,20 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 
 ## **Experience**
 
-### **Engineering Lead**  
+### **Platform Engineering Lead**  
 **Standard Chartered**  
 *May 2018 – July 2025 ( Present )*
 
 #### **Career Progression**
 - Technical Lead (SCB Grade M21): May 2018 – Apr 2021  
-- Engineering Lead (SCB Grade M22): Apr 2021 – Mar 2024  
-- Engineering Lead (SCB Grade M23): Apr 2024 – Present
+- Platform Engineering Lead (SCB Grade M22): Apr 2021 – Mar 2024  
+- Platform Engineering Lead (SCB Grade M23): Apr 2024 – Present
 
 #### **Key Projects & Achievements**
 
-- **Internal Developer Platform Chapter Lead**
-  - Work closely with Head of Engineering to map out landscape and identity horizontal workstreams to advance closer towards IDP vision.
-  - Expected to technically pivot between multiple platform and product areas.
-  - Architected distributed tracing across internal middleware platforms (API gateway, Mesasging Broker, Enterprise Service Bus, etc.) for inter-hop transaction/message tracing.
-  - Architected service registry to track system connectivity between our platforms and 1000+ connected applications in the bank.
+- **DevEx Guild Lead**
+  - Work closely with Head of Engineering to map out landscape and identity horizontal workstreams to advance DevEx vision.
+  - Technically pivot between multiple platform and product areas to drive DevEx.
 
 - **Platform Modernization and Datacenter Migration**
   - Lead a squad of 14 engineers.
