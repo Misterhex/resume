@@ -80,18 +80,24 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 **PALO IT**  
 *Jun 2017 – May 2018*
 
-- DevOps consultant for SCB testing team.
+- DevOps consultant for QA Testing team.
 - Solved performance bottlenecks in testing pipeline.
-- Deployed Selenium Grid on AWS via Terraform.
-- Automated provisioning with Ansible.
+- Deployed Selenium Grid on AWS via Terraform, launch hundreds of Selenium worker nodes, run selenium test, then shutdown.
+- Automated provisioning with Ansible. Optimize deployment of selenium with Packer.
 - Reduced test time from hours to 15 minutes.
+- Also, engage with DFS, and pilot Alibaba Kubernetes with one of the internal App Team.
 
 ---
 
 ### **Software Architect**  
 *May 2016 – Jun 2017*
 
-- Architected scalable systems for sports trading platforms.
+- Spearheaded DevOps practices and modernized monitoring with early adoption of Elasticsearch + Kibana and Prometheus for system observability.
+- Faciliate across teams, help to mentor junior software and qa folks.
+- Resolved critical latency and performance issues in real-time soccer trading systems built on Reactive Extensions (.NET) and Redis Queue.
+- Engineered web scraping pipelines to ingest soccer odds and event data feeds from multiple sources.
+- Collaborated with quantitative engineers to integrate punting decision algorithms into trading logic.
+
 
 ---
 
@@ -107,8 +113,9 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 *Jul 2012 – Apr 2015*
 
 - Built and optimized sports trading systems.
-
----
+- Developed and optimized C# 4.5 botnet-based trading applications.
+- Enabled automated trading systems managing multi-million dollar betting volumes across global soccer markets.
+- Built full stack frontend backend sports trading site, c#, angularjs, azure websites.
 
 ### **Software Engineer**  
 *Jan 2010 – Jun 2012*
