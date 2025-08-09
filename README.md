@@ -30,20 +30,20 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 
 - **DevEx Guild Lead**
   - Work closely with Head of Engineering to map out landscape and identity horizontal workstreams to advance DevEx vision.
-  - Technically pivot between multiple platform and product areas to drive DevEx.
+  - Technically pivot between platform and product areas to drive DevEx solutions and strategies, to enable self-service platform.
 
 - **Platform Modernization and Datacenter Migration**
-  - Lead a squad of 14 engineers.
-  - Lead the massive multi-year modernization of highly integrated Enterprise Service Bus (ESB), connected by 1000+ applications in the bank.
-  - Re-platform entire platform to cloud-native containerized solutions.
-  - Re-built and modernize entire observability stack to build on opensource; logs, metrics, distributed tracing, Prometheus/Opentelemtry/Grafana/Elasticsearch.
-  - Enforced 100% end-to-end CI/CD practices on integration developers.
-  - Migrate modernized solutions to new geo datacenters, high availability load balancing in single region, dns switch between geo sites.
-  - Oversee architecture in alignment with the central program team for datacenter migration.
-  - Work closely with various other enabling platform teams, compute, database, loadbalancer, dns, ldap, hashicorp vault, ci/cd, certificates.
-  - Deployment pipleine to OpenShift (Kubernetes) via Helm3 and RHEL9/Podman via Ansible.
-  - Drive the geo resilient architecture design from a single datacenter to new datacenters of multi geo-distributed sites.
-  - Define the move based dns strategy approach to manage migrations with connected 1000+ applications.
+  - Led a squad of 14 engineers to deliver large-scale modernization initiatives.
+  - Directed the transformation of a legacy integration platform connecting 1,000+ applications across the bank.
+  - Migrated modernized solutions to Standard Chartered’s new geo-distributed data centers.
+  - Designed high-availability architectures with regional load balancing and DNS-based failover between geo sites.
+  - Replatformed the entire integration stack to cloud-native, containerized solutions, followed by traffic migration to new data centers.
+  - Engineered geo-resilient architecture, evolving from a single data center to multi-site, globally distributed infrastructure.
+  - Rebuilt and modernized the observability stack using open-source technologies.
+  - Oversaw architecture alignment with the central program team to meet data center migration objectives.
+  - Faciliate with enabling platform teams (compute, database, load balancer, DNS, LDAP, HashiCorp Vault, CI/CD, certificates) to ensure seamless integration.
+  - Implemented deployment pipelines to OpenShift (Kubernetes) via Helm 3 and to RHEL9/Podman via Ansible.
+
  
 - **Core Runtime Kubernetes**
   - Lead a squad of 7 platform engineers.
