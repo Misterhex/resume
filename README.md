@@ -33,7 +33,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Technically pivot between platform and product areas to drive DevEx solutions and strategies, to enable self-service platform.
 
 - **Platform Modernization and Datacenter Migration**
-  - Led a squad of 14 engineers to deliver large-scale modernization initiatives.
+  - Led a squad of 12 engineers to deliver large-scale modernization initiatives.
   - Directed the transformation of a legacy integration platform connecting 1,000+ applications across the bank.
   - Migrated modernized solutions to Standard Chartered’s new geo-distributed data centers.
   - Designed high-availability architectures with regional load balancing and DNS-based failover between geo sites.
