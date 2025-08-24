@@ -22,9 +22,9 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 *May 2018 – Present*
 
 #### **Career Progression**
-- SCB Grade M21: May 2018 – Apr 2021  
-- SCB Grade M22: Apr 2021 – Mar 2024  
-- SCB Grade M23: Apr 2024 – Present
+- SCB Grade M21 ( Band 6 / AVP ): May 2018 – Apr 2021  
+- SCB Grade M22 ( Band 5B / VP ): Apr 2021 – Mar 2024  
+- SCB Grade M23 ( Band 5A / SVP ): Apr 2024 – Present
 
 #### **Key Projects & Achievements**
 
