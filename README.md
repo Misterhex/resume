@@ -29,7 +29,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 #### **Key Projects & Achievements**
 
 - **DevEx Guild Lead**
-  - Work closely with Head of Engineering to map out landscape and identity horizontal workstreams to advance DevEx vision.
+  - Work closely with product squad leads to map out landscape and identity horizontal workstreams to advance DevEx vision.
   - Technically pivot between platform and product areas to drive DevEx solutions and strategies, to enable self-service platform.
 
 - **Platform Modernization and Datacenter Migration**
