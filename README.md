@@ -29,8 +29,8 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 #### **Key Projects & Achievements**
 
 - **DevEx Guild Lead**
-  - Work closely with product squad leads to map out landscape and identity horizontal workstreams to advance DevEx vision.
-  - Technically pivot between platform and product areas to drive DevEx solutions and strategies, to enable self-service platform.
+  - Senior IC (staff+) working closely with product squad leads to devise strategy and identity workstreams, backlogs to advance DevEx.
+  - Technically pivot between platform and product areas to drive DevEx solutions and strategies enabling self-service platform.
 
 - **Platform Modernization and Datacenter Migration**
   - Led a squad of 12 engineers to deliver large-scale modernization initiatives.
@@ -60,7 +60,7 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
   - Post infrastructure provisioning, designed configurations pattern using Ansible pull, EC2 Auto Scaling Groups, and cloud-init (user data) scripts; standardized base installation scripts to streamline deployment.
 
 - **CI/CD Platform Migration**
-  - Faciliate across internal squads.
+  - Perform as Senior IC (staff+) as SPOC representing our group for bank wide ci/cd migration, faciliating work across internal squads.
   - Led and devise plan for migration of 2000+ repositories and pipelines, across all internal teams in our hive.
   - Collaborated closely with the central CI/CD azure devops platform team to develop build and deployment CI/CD patterns tailored to our requirements.
   - Mentored teams in modern build/deploy practices (Java, Docker, Helm, Ansible, Terraform) and uplifting of security posture during migration.
