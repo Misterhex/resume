@@ -29,8 +29,10 @@ I am an experienced hands-on Engineering Lead specializing in platform developme
 #### **Key Projects & Achievements**
 
 - **DevEx Guild Lead**
-  - Senior IC (staff+) working closely with product squad leads to devise strategy and identity workstreams, backlogs to advance DevEx.
-  - Technically pivot between platform and product areas to drive DevEx solutions and strategies enabling self-service platform.
+  - Senior IC (staff+) working closely with squad leads to devise AI/ML strategy advance DevEx.
+  - Designed and implemented an agentic AI workflow using Spring AI and OpenAI to autonomously triage failed transaction flows across multiple vendor platforms lacking distributed tracking capabilities.
+  - Significantly reduce first level client support efforts of our engineers and accelerating incident resolutions.
+  - Provide tools for our AI Agents to use logs, metrics and our system registry API connectors, provide action tools that auto create service now tickets. 
 
 - **Platform Modernization and Datacenter Migration**
   - Led a squad of 12 engineers to deliver large-scale modernization initiatives.
