@@ -14,7 +14,7 @@ Singapore
 
 
 ## **Technical Breadth**
-Observability (Elasticsearch, Prometheus, OpenTelemetry, Fluentd) · Kubernetes / OpenShift · CI/CD (Azure DevOps, Jenkins, Helm, Ansible) · Cloud Infrastructure (AWS, Terraform) · Event Streaming (Apache Kafka) · Containerization (Docker, Podman, Helm) · Distributed Systems · Infrastructure as Code · Java · C# / .NET · Python
+Observability (Elasticsearch, Prometheus, OpenTelemetry, Fluentd) · Kubernetes / OpenShift · CI/CD (Azure DevOps, Jenkins, Helm, Ansible) · Cloud Infrastructure (AWS, Terraform) · Event Streaming (Apache Kafka) · Containerization (Docker, Podman, Helm) · Distributed Systems · Infrastructure as Code · Java · C# / .NET
 
 
 ## **Experience**
