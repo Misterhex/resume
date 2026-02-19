@@ -35,7 +35,7 @@ Principal-level Engineering Lead with 15+ years of experience driving large-scal
   - Key anchor tenant: the Data Engineering Platform team, providing Kafka as the core messaging bus for the raw data landing zone ingestion pipeline.
 
 - **Platform Modernization and Datacenter Migration**
-  - Directed a 12-engineer squad through large-scale modernization of a legacy integration platform connecting 1,000+ applications bank-wide.
+  - Directed a 12-engineer squad through large-scale modernization of a legacy integration platform connecting 300+ application teams bank-wide.
   - Architected geo-resilient, multi-site infrastructure with regional load balancing and DNS-based failover, evolving from single-datacenter to globally distributed topology.
   - Drove end-to-end replatforming of the integration stack to cloud-native containerized solutions and orchestrated traffic migration to new data centers.
   - Rebuilt the observability stack on open-source technologies, providing full operational visibility across the modernized platform.
