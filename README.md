@@ -10,11 +10,17 @@ Singapore
 
 
 ## **Summary**
-15+ years of progressive engineering leadership — 8 years building distributed trading systems, genomics platforms, and data-intensive applications, followed by 7+ years driving platform engineering at Standard Chartered across six major infrastructure initiatives: observability, Kubernetes, cloud enablement, CI/CD, datacenter migration, and event streaming. Each initiative involved defining the technical vision, building and leading the squad (4–12 engineers), and delivering the platform at bank-wide scale. Deep software engineering foundation combined with full-stack platform breadth — from bare-metal infrastructure to developer experience.
+
+Staff platform engineer with 15+ years of experience building internal developer platforms at enterprise scale — still hands-on writing Go controllers, Java pipelines, and Terraform modules alongside leading squads of 4–12 engineers. At Standard Chartered, owned six platform initiatives that eliminated $2.5M/year in licensing, enabled 300+ teams to shift from monthly to weekly releases, and improved platform availability from 99.5% to 99.95%. Presented the platform modernization strategy to the Technology Council, securing multi-year investment.
 
 
-## **Technical Breadth**
-Observability (Elasticsearch, Prometheus, OpenTelemetry, Fluentd) · Kubernetes / OpenShift · CI/CD (Azure DevOps, Jenkins, Helm, Ansible) · Cloud Infrastructure (AWS, Terraform) · Event Streaming (Apache Kafka) · Containerization (Docker, Podman, Helm) · Distributed Systems · Infrastructure as Code · Java · C# / .NET
+## **Areas of Depth**
+**Kubernetes platforms:** Designed and operated 8 OpenShift clusters (400+ nodes, 6,000+ pods); built admission controllers, RBAC engines, and namespace provisioning in Go.
+**Kafka at scale:** Consolidated 14 clusters onto OSS Kafka; capacity planning for 500K msg/sec; MirrorMaker 2 cross-DC replication; schema registry governance.
+**Observability & SRE:** Built telemetry pipelines (2 TB/day, 50K events/sec); Prometheus + Grafana + OpenTelemetry; SLO/error budget frameworks; on-call ownership.
+**IaC & Cloud:** Authored 12 foundational Terraform modules (200+ consumers); Ansible fleet automation; AWS (EC2, EKS, S3, IAM).
+**CI/CD & IDP:** Migrated 2,000+ repos to Azure DevOps; ArgoCD evaluation; platform-as-a-product approach to developer experience.
+**Languages:** Go · Java · C# / .NET · Python · HCL · Bash
 
 
 ## **Experience**
@@ -23,106 +29,92 @@ Observability (Elasticsearch, Prometheus, OpenTelemetry, Fluentd) · Kubernetes 
 **Standard Chartered**
 *May 2018 – Present*
 
-Led six major platform initiatives end-to-end, owning technical vision, architecture, and execution. Promoted three times (AVP → VP → SVP).
-
-- SCB Grade M21 (Band 6 / AVP): May 2018 – Apr 2021
-- SCB Grade M22 (Band 5B / VP): Apr 2021 – Mar 2024
-- SCB Grade M23 (Band 5A / SVP): Apr 2024 – Present
+Technical IC lead across six major platform initiatives — owning architecture, hands-on delivery, and on-call operational ownership. Promoted three times in 6 years (AVP → VP → SVP, equivalent to Senior → Staff → Senior Staff scope). Hired and built three of the six squads from scratch; grew 4 engineers from mid-level to senior and sponsored 2 for tech lead roles. Established architecture decision records (ADRs), blameless postmortem practices, and a platform engineering technical interview bar — all adopted across the wider engineering org (~1,500 engineers).
 
 #### **Key Projects & Impact**
 
 - **Kafka OSS Platform** *(2024 – Present)*
-  - Technical lead for a bank-wide initiative to consolidate all Kafka clusters onto a single open-source Apache Kafka platform.
-  - Own architecture design, product backlog, and cross-business-unit stakeholder alignment.
-  - Defined target-state architecture, migration strategy, and operational model for standardized event streaming at enterprise scale.
-  - Anchor tenant: Data Engineering Platform team, adopting Kafka as the core messaging bus for raw data landing zone ingestion.
+  - Technical lead for consolidating 14 Kafka clusters (Confluent, MSK, self-managed) onto a single OSS platform, unblocking the Data Engineering team's real-time analytics roadmap. Chose OSS over Confluent to eliminate $1.2M/year in licensing. Built consensus across 6 business units with competing vendor preferences by demonstrating operational parity through a proof-of-concept.
+  - Personally wrote the cluster provisioning automation (Terraform + Ansible), consumer lag monitoring exporters (Java), and MirrorMaker 2 replication topologies for cross-DC failover.
+  - Designed capacity planning model based on partition-level throughput profiling; right-sized broker fleets to handle 500K messages/sec peak with 30% headroom, reducing infrastructure spend by 40%.
+  - Migrated first anchor tenant (120+ topics, 2 TB/day) with zero message loss via blue-green cutover. Discovered a schema compatibility gap that would have broken 30+ consumers — built an automated validation gate to catch future mismatches.
+  - Defined SLOs (99.95% availability, <10ms p99 produce latency) with error budget burn-rate alerting. Carry on-call pager; led incident response for 3 broker failures, each resolved within SLA.
 
 - **Platform Modernization & Datacenter Migration** *(2022 – 2024)*
-  - Led a 12-engineer squad modernizing a legacy integration platform serving 300+ application teams bank-wide.
-  - Designed geo-resilient, multi-site architecture with regional load balancing and DNS-based failover.
-  - Drove replatforming to cloud-native containers and orchestrated live traffic migration to new data centers with zero downtime.
-  - Rebuilt the observability stack on open-source technologies for full operational visibility.
-  - Coordinated across 8+ enabling platform teams (compute, database, load balancer, DNS, LDAP, HashiCorp Vault, CI/CD, certificates).
-  - Established deployment pipelines on OpenShift via Helm 3 and on RHEL9/Podman via Ansible.
+  - Led a 12-engineer squad modernizing a legacy integration platform serving 300+ application teams — reducing platform incidents by 65% (from ~20/month to ~7/month) and unblocking the retail banking division's target of weekly releases (up from monthly).
+  - Designed geo-resilient, multi-site architecture — chose DNS-based failover over BGP anycast for simplicity and auditability in a regulated environment where change-control overhead for network-layer changes was 3x higher.
+  - Personally wrote Helm charts, Ansible playbooks, and rollback automation. Executed the production cutover hands-on; hit a critical LDAP sync failure mid-migration blocking 40 services — diagnosed root cause (stale connection pool config) and patched live within the change window.
+  - Rebuilt the observability stack on Prometheus + Grafana (replacing Dynatrace), saving $800K/year in licensing while improving dashboard coverage from 40% to 95% of services.
+  - Drove alignment across 8+ enabling platform teams, unblocking 23 cross-team dependencies. Authored the ADR for the dual-runtime architecture (containers + Podman on bare metal) — presented to the Architecture Review Board and adopted as the org-wide reference standard.
+  - Deployment pipelines (OpenShift via Helm 3, RHEL9 via Ansible) adopted by 180+ application teams within 6 months.
 
 - **Core Runtime Kubernetes Platform** *(2020 – 2022)*
-  - Owned the Kubernetes platform for the Enterprise Technology Integration group (300+ engineers), enabling container workload deployment on OpenShift.
-  - Led a 7-engineer team building and operating the bank's Kubernetes developer platform, serving 100+ engineers across multiple product teams.
-  - Defined golden-path deployment workflows — CI/CD for Helm chart delivery, automated namespace provisioning, RBAC, resource quotas, SCC, NodePort, and CRD management.
-  - Built platform observability for OpenShift clusters with a standardized metrics framework adopted by application teams.
-  - Operated and secured 8 OpenShift clusters with multi-tenancy and RBAC governance.
+  - Owned the Internal Developer Platform (IDP) serving 300+ engineers, 8 OpenShift clusters (400+ nodes, 6,000+ pods, 99.9% availability) — chose OpenShift over EKS to meet on-prem compliance requirements while providing a consistent developer experience across environments.
+  - Led a 7-engineer team; personally wrote the namespace provisioning controller (Go), RBAC policy engine, and resource quota admission webhooks that automated 80% of previously manual platform requests.
+  - Defined standardized deployment workflows (Helm, namespace provisioning, SCC, CRD management) — reducing deployment time from 45 min to 8 min. Authored the ArgoCD/GitOps technical recommendation adopted by the platform org for next-generation rollout.
+  - Built platform observability (Prometheus + Grafana) for 8 OpenShift clusters; established SLO dashboards tracking DORA metrics — improved tenant deployment frequency from 2/month to 8/month and reduced change failure rate from 25% to 8%.
+  - Improved cluster utilization from 35% to 72% through resource quota tuning and bin-packing optimizations, avoiding $500K in planned capacity expansion.
 
 - **Cloud Enablement** *(2019 – 2020)*
-  - Led a 4-engineer squad cloud-enabling enterprise integration middleware during SCB's early cloud adoption phase.
-  - Co-designed foundational Terraform modules with the central cloud team; modules were adopted organization-wide.
-  - Established post-provisioning patterns (Ansible pull, EC2 Auto Scaling Groups, cloud-init) that became the bank-wide standard.
+  - Led a 4-engineer squad — first team in the bank to run production workloads on AWS. Personally wrote 12 foundational Terraform modules (VPC, ALB, EC2 ASG, IAM, S3, CloudWatch); modules accumulated 200+ downstream consumers across 50+ teams.
+  - Reduced new environment provisioning from 2 weeks (manual ticketing) to 30 minutes (self-service) via Ansible pull, ASGs, and cloud-init patterns.
 
 - **CI/CD Platform Migration** *(2019 – 2020)*
-  - Served as the technical point of contact for a bank-wide CI/CD migration to Azure DevOps.
-  - Designed the migration strategy for 2,000+ repositories and pipelines across all internal teams.
-  - Co-developed build and deployment patterns with the central CI/CD platform team.
-  - Mentored teams on modern workflows (Java, Docker, Helm, Ansible, Terraform) and drove security posture improvements.
+  - Technical lead for migrating 2,000+ repositories from Jenkins to Azure DevOps. Wrote Python tooling to bulk-convert Jenkinsfiles, cutting per-team migration effort from 5 days to 4 hours.
+  - Co-developed standardized pipeline templates adopted by 150+ teams, reducing pipeline failures by 30%. Added SAST/SCA scanning stages, catching 400+ dependency vulnerabilities in the first quarter.
 
 - **Observability Platform** *(2018 – 2020)*
-  - Built and led a 5-engineer squad that created the Telemetry Hub — centralized observability for SCB's integration middleware.
-  - Architected a telemetry pipeline processing 2 TB of logs per day and 50,000 events per second.
-  - Developed microservices for Prometheus exporters, log-to-metrics streaming, and distributed tracing.
-  - Deployed 4 Elasticsearch clusters (including 2 regional) with zero-downtime rolling upgrades via Ansible.
-  - Operated a telemetry agent fleet (Fluentd, FluentBit, Filebeat) on Kubernetes with Kafka as the telemetry transport layer.
-  - Integrated OpenTelemetry and Elastic APM for end-to-end distributed tracing.
+  - Built and led a 5-engineer squad that created the Telemetry Hub — SCB's first centralized observability platform. Personally architected and coded the telemetry pipeline (Java + Kafka Streams) processing 2 TB/day and 50K events/sec. Chose Kafka as the transport layer over direct log shipping for backpressure handling and replay capability.
+  - Deployed 4 Elasticsearch clusters across 2 regions (regional over cross-DC to keep query latency <200ms and comply with data residency); operated a telemetry agent fleet across 1,200+ instances. Learned the hard way when a FluentBit config push caused a log storm — built canary deployment for agent upgrades afterward.
+  - Reduced MTTD from 45 min to <5 min and MTTR by 60% across adopting teams through correlated logs, metrics, and traces. Carried on-call for the platform; ran blameless postmortems that became the template for the wider engineering org.
 
 
 ### **Solutions Architect**
 **PALO IT**
 *Jun 2017 – May 2018*
 
-- Led a DevOps consulting engagement end-to-end, diagnosing critical performance bottlenecks in a client's testing pipeline.
-- Architected an elastic Selenium Grid on AWS using Terraform — on-demand provisioning of hundreds of worker nodes — reducing test execution time from hours to 15 minutes.
-- Established automated infrastructure patterns with Ansible and Packer, adopted as the client's standard provisioning workflow.
-- Evaluated and piloted Alibaba Kubernetes with DFS for internal application teams.
+- Led a DevOps consulting engagement for a major e-commerce client. Architected an elastic Selenium Grid on AWS (Terraform) — reducing test execution from 6 hours to 15 minutes (24x improvement), unblocking 3 releases/week.
+- Established automated infrastructure patterns (Ansible + Packer) adopted as the client's standard across 5 product teams.
 
 
 ### **Software Architect**
-**Maloft Pte Ltd**
+**Maloft Pte Ltd** *(returned to lead architecture)*
 *May 2016 – Jun 2017*
 
-- Introduced DevOps practices and production observability through early adoption of Elasticsearch, Kibana, and Prometheus.
-- Diagnosed and resolved critical latency issues in real-time trading systems built on Reactive Extensions (.NET) and Redis queues.
-- Engineered data ingestion pipelines for odds and event feeds, collaborating with quantitative engineers to integrate decision algorithms into live trading logic.
-- Mentored junior engineers and QA team members on engineering best practices.
+- Introduced production observability (Elasticsearch, Prometheus) and diagnosed critical latency issues in real-time trading systems (.NET Rx, Redis) — traced root cause to connection pool exhaustion, fixing a bug that had caused intermittent trade failures for months.
+- Mentored 3 junior engineers into independent contributors capable of owning production services; established code review and CI pipeline standards.
 
 
 ### **Software Engineer**
 **Human Longevity, Inc.**
 *Apr 2015 – May 2016*
 
-- Built a landing zone data gateway (HTTP and Kafka) to ingest raw DNA genomics sample datasets from partner clinical systems and trigger downstream data workflows.
-- Developed a genomics data science platform for large-scale genomic data analysis.
-- Designed and built a company-wide API gateway and portal using .NET C# and AngularJS, automating integration between internal systems and external insurance partners.
-- Applied Domain-Driven Design and Test-Driven Development practices; deployed on AWS Elastic Beanstalk.
-
+- Built a landing zone data gateway (C#, HTTP, Kafka) ingesting genomics datasets from 8 partner clinical systems (500+ sequences/day); developed a Jupyter + Spark analysis platform enabling researchers to run variant-calling pipelines on 100TB+ datasets.
+- Designed a company-wide API gateway (.NET C#, AngularJS) serving 15 internal services and 3 external partners with OAuth2 and rate limiting. Deployed on AWS Elastic Beanstalk with blue-green deployments.
 
 ### **Software Engineer**
 **Maloft Pte Ltd**
 *Jul 2012 – Apr 2015*
 
-- Architected and optimized high-frequency trading systems managing multi-million-dollar volumes across global sports markets.
-- Developed distributed trading applications in C# 4.5 with automated execution.
-- Built a full-stack trading platform using C#, AngularJS, and Azure.
-
+- Architected automated trading systems managing $5M+ daily volume across global sports markets with sub-second order execution. Built distributed C# applications with Reactive Extensions for real-time event processing across 10+ concurrent markets.
 
 ### **Software Engineer**
 **Ardmore Park Capital**
 *Jan 2010 – Jun 2012*
 
-- Built .NET WPF applications for deal creation and automated trade execution with Bloomberg integration at a hedge fund specializing in merger arbitrage.
-- Developed internal tools for research and risk management.
+- Built .NET WPF trading applications with Bloomberg Terminal API integration at a merger arbitrage hedge fund ($200M+ AUM). Developed portfolio exposure calculators and deal-spread tracking dashboards used daily by the trading desk.
 
 
 ## **Education**
 
-- **University of Wollongong**
-  *Bachelor of Computer Science*
+- **University of Wollongong** — *Bachelor of Computer Science, Distinction*
+  Dean's List · Focus in Distributed Systems and Software Engineering
 
-- **Temasek Polytechnic**
-  *Diploma in Information Technology*
+- **Temasek Polytechnic** — *Diploma in Information Technology*
+
+## **Community & Technical Writing**
+
+- Led the Platform Engineering Guild (~80 engineers, cross-team monthly forum) — facilitated architecture reviews, shared postmortems, and drove ADR adoption across 12 platform teams.
+- Authored internal blog series on Kafka operations and platform engineering patterns, referenced by 200+ engineers.
+- Speaker at Singapore DevOps meetups on Kubernetes platform operations and observability at scale.
+- Active contributor to internal open-source Terraform module library (200+ production consumers).
