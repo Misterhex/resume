@@ -8,17 +8,14 @@ Singapore
 
 [LinkedIn](https://www.linkedin.com/in/tanyongheng)
 
----
 
 ## **Summary**
 8 years as a software engineer building distributed trading systems, genomics platforms, and data-intensive applications. Transitioned into platform engineering and spent 7+ years at Standard Chartered rotating across a new major infrastructure initiative every 2–3 years — observability, Kubernetes, cloud enablement, CI/CD, datacenter migration, and event streaming. Each rotation involved owning the architecture, building and leading the squad (4–12 engineers), and delivering the platform end-to-end. This breadth across the full DevOps and platform stack, combined with a deep software engineering foundation, is what I bring.
 
----
 
 ## **Technical Breadth**
-Observability (Elasticsearch, Prometheus, OpenTelemetry, Fluentd) · Kubernetes / OpenShift · CI/CD (Azure DevOps, Jenkins, Helm, Ansible) · Cloud Infrastructure (AWS, Terraform) · Event Streaming (Apache Kafka) · Containerization (Docker, Podman, Helm) · Distributed Systems · Infrastructure as Code · Java · C# / .NET · Python
+Observability (Elasticsearch, Prometheus, OpenTelemetry, Fluentd) · Kubernetes / OpenShift · CI/CD (Azure DevOps, Jenkins, Helm, Ansible) · Cloud Infrastructure (AWS, Terraform) · Event Streaming (Apache Kafka) · Containerization (Docker, Podman, Helm) · Distributed Systems · Infrastructure as Code · Java · C# / .NET
 
----
 
 ## **Experience**
 
@@ -74,7 +71,6 @@ Rotated across six major platform initiatives, each time owning architecture and
   - Managed telemetry agent fleet (Fluentd, FluentBit, Filebeat) on Kubernetes with Kafka for telemetry streaming.
   - Integrated OpenTelemetry and Elastic APM for end-to-end distributed tracing.
 
----
 
 ### **Solutions Architect**
 **PALO IT**
@@ -85,7 +81,6 @@ Rotated across six major platform initiatives, each time owning architecture and
 - Built automated infrastructure patterns with Ansible and Packer adopted as the client's standard provisioning workflow.
 - Engaged with DFS to evaluate and pilot Alibaba Kubernetes for internal application teams.
 
----
 
 ### **Software Architect**
 **Maloft Pte Ltd**
@@ -96,7 +91,6 @@ Rotated across six major platform initiatives, each time owning architecture and
 - Engineered data ingestion pipelines for odds and event feeds, collaborating with quantitative engineers to integrate decision algorithms into live trading logic.
 - Mentored junior engineers and QA team members.
 
----
 
 ### **Software Engineer**
 **Human Longevity, Inc.**
@@ -106,7 +100,6 @@ Rotated across six major platform initiatives, each time owning architecture and
 - Built a company-wide API gateway and API portal using .NET C# and AngularJS, automating integration between Human Longevity's internal systems and external insurance partners, streamlining stakeholder workflows.
 - Applied Domain-Driven Design and Test-Driven Development practices, deployed on AWS Elastic Beanstalk.
 
----
 
 ### **Software Engineer**
 **Maloft Pte Ltd**
@@ -116,7 +109,6 @@ Rotated across six major platform initiatives, each time owning architecture and
 - Developed C# 4.5 distributed trading applications with automated execution.
 - Built full-stack sports trading platform using C#, AngularJS, and Azure.
 
----
 
 ### **Software Engineer**
 **Ardmore Park Capital**
@@ -125,7 +117,6 @@ Rotated across six major platform initiatives, each time owning architecture and
 - Built .NET WPF applications to support traders in creating deals and automating trade execution with Bloomberg integration at a hedge fund specialising in merger and acquisitions strategy.
 - Developed tools for research and risk management.
 
----
 
 ## **Education**
 
