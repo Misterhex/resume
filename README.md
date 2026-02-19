@@ -32,6 +32,7 @@ Principal-level Engineering Lead with 15+ years of experience driving large-scal
   - Technical lead driving the architecture design, product backlog, and stakeholder management for a bank-wide Kafka consolidation initiative.
   - Leading the effort to consolidate all disparate Kafka clusters across Standard Chartered into a single, unified platform built on open-source Apache Kafka.
   - Defining the target-state architecture, migration strategy, and operational model to standardize event streaming infrastructure bank-wide.
+  - Key anchor tenant: the Data Engineering Platform team, providing Kafka as the core messaging bus for the raw data landing zone ingestion pipeline.
 
 - **Platform Modernization and Datacenter Migration**
   - Directed a 12-engineer squad through large-scale modernization of a legacy integration platform connecting 1,000+ applications bank-wide.
