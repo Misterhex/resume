@@ -49,6 +49,7 @@ Rotated across six major platform initiatives, each time owning architecture and
   - Established deployment pipelines on OpenShift via Helm 3 and RHEL9/Podman via Ansible.
 
 - **Core Runtime Kubernetes Platform** *(2020 – 2022)*
+  - Managed Kubernetes for the Enterprise Technology Integration group comprising 300+ engineers, enabling container workload deployment on the OpenShift container platform.
   - Led a 7-engineer team owning the bank's Kubernetes developer platform, serving 100+ engineers across multiple product teams.
   - Defined golden-path deployment workflows on OpenShift — CI/CD for Helm chart delivery, automated namespace provisioning, RBAC, resource quotas, SCC, NodePort, and CRD management.
   - Built platform observability for OpenShift clusters with a standardized metrics framework for application teams.
@@ -87,6 +88,7 @@ Rotated across six major platform initiatives, each time owning architecture and
 ---
 
 ### **Software Architect**
+**Maloft Pte Ltd**
 *May 2016 – Jun 2017*
 
 - Introduced DevOps practices and production observability through early adoption of Elasticsearch, Kibana, and Prometheus.
@@ -101,10 +103,13 @@ Rotated across six major platform initiatives, each time owning architecture and
 *Apr 2015 – May 2016*
 
 - Developed genomics data science platform for large-scale genomic data analysis.
+- Built a company-wide API gateway and API portal using .NET C# and AngularJS, automating integration between Human Longevity's internal systems and external insurance partners, streamlining stakeholder workflows.
+- Applied Domain-Driven Design and Test-Driven Development practices, deployed on AWS Elastic Beanstalk.
 
 ---
 
 ### **Software Engineer**
+**Maloft Pte Ltd**
 *Jul 2012 – Apr 2015*
 
 - Architected and optimized high-frequency sports trading systems managing multi-million dollar volumes across global soccer markets.
@@ -114,9 +119,11 @@ Rotated across six major platform initiatives, each time owning architecture and
 ---
 
 ### **Software Engineer**
+**Ardmore Park Capital**
 *Jan 2010 – Jun 2012*
 
-- Developed .NET WPF applications for research and risk management.
+- Built .NET WPF applications to support traders in creating deals and automating trade execution with Bloomberg integration at a hedge fund specialising in merger and acquisitions strategy.
+- Developed tools for research and risk management.
 
 ---
 
