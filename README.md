@@ -118,9 +118,11 @@ Rotated across six major platform initiatives, each time owning architecture and
 ---
 
 ### **Software Engineer**
+**Ardmore Park Capital**
 *Jan 2010 – Jun 2012*
 
-- Developed .NET WPF applications for research and risk management.
+- Built .NET WPF applications to support traders in creating deals and automating trade execution with Bloomberg integration at a hedge fund specialising in merger and acquisitions strategy.
+- Developed tools for research and risk management.
 
 ---
 
