@@ -49,6 +49,7 @@ Rotated across six major platform initiatives, each time owning architecture and
   - Established deployment pipelines on OpenShift via Helm 3 and RHEL9/Podman via Ansible.
 
 - **Core Runtime Kubernetes Platform** *(2020 – 2022)*
+  - Managed Kubernetes for the Enterprise Technology Integration group comprising 300+ engineers, enabling container workload deployment on the OpenShift container platform.
   - Led a 7-engineer team owning the bank's Kubernetes developer platform, serving 100+ engineers across multiple product teams.
   - Defined golden-path deployment workflows on OpenShift — CI/CD for Helm chart delivery, automated namespace provisioning, RBAC, resource quotas, SCC, NodePort, and CRD management.
   - Built platform observability for OpenShift clusters with a standardized metrics framework for application teams.
