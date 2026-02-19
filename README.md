@@ -1,135 +1,133 @@
 
 # **Tan Yong Heng**
-Singapore  
+Singapore
 
 📧 yongheng0905@gmail.com
 
-📞 +65-94301218  
+📞 +65-94301218
 
 [LinkedIn](https://www.linkedin.com/in/tanyongheng)
 
 ---
 
 ## **Summary**
-I am an experienced hands-on Engineering Lead specializing in platform development, software engineering, observability, building cloud-native solutions.
+Senior Principal Engineer with 15+ years of experience setting technical direction and leading engineering teams to deliver platform infrastructure, cloud-native architecture, and observability at scale. Equally effective defining the architecture and rallying teams to ship it — from designing reference architectures adopted by 300+ application teams to hands-on leadership of squads up to 12 engineers delivering organization-wide platform modernization. Operates at the intersection of deep technical expertise, cross-organizational influence, and execution leadership — turning ambiguous infrastructure challenges into standardized, scalable platforms that multiply engineering velocity across the enterprise.
+
+---
+
+## **Areas of Technical Influence**
+- **Platform Architecture** — Defined reference architectures and golden paths for containerized deployments, middleware modernization, and cloud migration adopted bank-wide
+- **Observability & Reliability** — Established the telemetry strategy and built the centralized observability platform for enterprise middleware (2TB logs/day, 50K events/sec)
+- **Event Streaming** — Driving the consolidation of all Kafka infrastructure into a single open-source platform serving the enterprise
+- **Developer Experience** — Shaped CI/CD patterns, deployment workflows, and Kubernetes developer platforms used by 100+ engineers daily
+- **Cloud Infrastructure** — Pioneered early cloud adoption patterns (Terraform, Ansible, AWS) that became foundational templates across the organization
+- **Technical Leadership** — Built, mentored, and led multiple engineering squads (4–12 engineers); uplifted engineering practices across teams through hands-on coaching on modern cloud-native toolchains
 
 ---
 
 ## **Experience**
 
-### **Platform Engineering Lead**  
-**Standard Chartered**  
+### **Platform Engineering Lead**
+**Standard Chartered**
 *May 2018 – Present*
 
 #### **Career Progression**
-- SCB Grade M21 ( Band 6 / AVP ): May 2018 – Apr 2021  
-- SCB Grade M22 ( Band 5B / VP ): Apr 2021 – Mar 2024  
+- SCB Grade M21 ( Band 6 / AVP ): May 2018 – Apr 2021
+- SCB Grade M22 ( Band 5B / VP ): Apr 2021 – Mar 2024
 - SCB Grade M23 ( Band 5A / SVP ): Apr 2024 – Present
 
-#### **Key Projects & Achievements**
+#### **Key Projects & Impact**
 
-- **DevEx Guild Lead**
-  - Senior IC (staff+) working closely with squad leads to devise AI/ML strategy advance DevEx.
-  - Designed and implemented an agentic AI workflow using Spring AI and OpenAI to autonomously triage failed transaction flows across multiple vendor platforms lacking distributed tracking capabilities.
-  - Significantly reduce first level client support efforts of our engineers and accelerating incident resolutions.
-  - Provide tools for our AI Agents to use logs, metrics and our system registry API connectors, provide action tools that auto create service now tickets. 
+- **Kafka OSS Platform Lead**
+  - Set the technical vision and driving architecture for a bank-wide initiative to consolidate all disparate Kafka clusters into a single, unified open-source Apache Kafka platform.
+  - Own the architecture design, product backlog prioritization, and stakeholder alignment across multiple business units and engineering teams — bridging technical depth with cross-functional coordination.
+  - Defined the target-state architecture, migration strategy, and operational model to standardize event streaming infrastructure bank-wide.
+  - Anchored the Data Engineering Platform team as the first major tenant, providing Kafka as the core messaging bus for the raw data landing zone ingestion pipeline.
 
-- **Platform Modernization and Datacenter Migration**
-  - Led a squad of 12 engineers to deliver large-scale modernization initiatives.
-  - Directed the transformation of a legacy integration platform connecting 1,000+ applications across the bank.
-  - Migrated modernized solutions to Standard Chartered’s new geo-distributed data centers.
-  - Designed high-availability architectures with regional load balancing and DNS-based failover between geo sites.
-  - Replatformed the entire integration stack to cloud-native, containerized solutions, followed by traffic migration to new data centers.
-  - Engineered geo-resilient architecture, evolving from a single data center to multi-site, globally distributed infrastructure.
-  - Rebuilt and modernized the observability stack using open-source technologies.
-  - Oversaw architecture alignment with the central program team to meet data center migration objectives.
-  - Faciliate with enabling platform teams (compute, database, load balancer, DNS, LDAP, HashiCorp Vault, CI/CD, certificates) to ensure seamless integration.
-  - Implemented deployment pipelines to OpenShift (Kubernetes) via Helm 3 and to RHEL9/Podman via Ansible.
+- **Platform Modernization & Datacenter Migration**
+  - Defined the technical strategy and led a 12-engineer squad end-to-end — from architecture through delivery — to modernize a legacy enterprise service bus platform serving 300+ application teams bank-wide.
+  - Designed the target-state geo-resilient architecture — multi-site infrastructure with regional load balancing and DNS-based failover — evolving from single-datacenter to globally distributed topology.
+  - Drove the full replatforming from legacy to cloud-native containerized solutions and orchestrated end-to-end traffic migration to new data centers with zero downtime.
+  - Re-architected the observability stack on open-source technologies, establishing full operational visibility as a standard for the modernized platform.
+  - Navigated cross-team dependencies across 8+ enabling platform teams (compute, database, load balancer, DNS, LDAP, HashiCorp Vault, CI/CD, certificates), unblocking critical integration paths.
+  - Established standardized deployment pipelines targeting OpenShift (Kubernetes) via Helm 3 and RHEL9/Podman via Ansible, adopted as patterns by other teams.
 
- 
-- **Core Runtime Kubernetes**
-  - Lead a squad of 7 platform engineers.
-  - Defined and built the golden paths for developers to deploy applications on OpenShift, provide CI/CD pipelines to deploy helm charts, and pipeline to manage kubernetes namespaces, resource quota, RBAC, and Security Context Constraints (SCC), Nodeports, CRDs, and provided end-to-end platform observability for the Kubernetes environment.
-  - Support our hive with 100+ engineers on building and deploying containers on our OpenShift Kubernetes clusters.
-  - Manage pipeline, multi-tenancy, security control and rbac, 8 openshift container platform clusters.
-  - Support teams with onboarding, and help them modernize.
-  - Built end to end observability of openshift clusters, monitoring of pods and containers. Define observability pattern for integrating application specific metrics.
+- **Core Runtime Kubernetes Platform**
+  - Owned the technical direction and led a 7-engineer platform team for the bank's Kubernetes developer platform, serving 100+ engineers across multiple product teams.
+  - Defined golden-path deployment workflows on OpenShift — CI/CD pipelines for Helm chart delivery, automated namespace provisioning, RBAC, resource quotas, SCC, NodePort, and CRD management — reducing onboarding time from weeks to days.
+  - Established the observability pattern for OpenShift clusters, creating a standardized framework for application teams to integrate custom metrics.
+  - Operated and secured 8 OpenShift clusters with multi-tenancy, security controls, and RBAC governance.
 
 - **Cloud Enablement**
-  - Lead a squad of 4 platform engineers. 
-  - Led engineering efforts to pilot and cloud-enable the enterprise integration middleware platform.
-  - Partnered with the central cloud team to pilot SCB’s early cloud deployments, co-developing foundational Terraform modules.
-  - Post infrastructure provisioning, designed configurations pattern using Ansible pull, EC2 Auto Scaling Groups, and cloud-init (user data) scripts; standardized base installation scripts to streamline deployment.
+  - Pioneered the cloud enablement strategy for enterprise integration middleware — architected the solution and led a 4-engineer squad through execution during SCB's early cloud adoption.
+  - Co-designed foundational Terraform modules with the central cloud team that became reusable templates across the organization.
+  - Established post-provisioning patterns (Ansible pull, EC2 Auto Scaling Groups, cloud-init) that set the standard for automated infrastructure configuration bank-wide.
 
 - **CI/CD Platform Migration**
-  - Perform as Senior IC (staff+) as SPOC representing our group for bank wide ci/cd migration, faciliating work across internal squads.
-  - Led and devise plan for migration of 2000+ repositories and pipelines, across all internal teams in our hive.
-  - Collaborated closely with the central CI/CD azure devops platform team to develop build and deployment CI/CD patterns tailored to our requirements.
-  - Mentored teams in modern build/deploy practices (Java, Docker, Helm, Ansible, Terraform) and uplifting of security posture during migration.
+  - Served as the technical authority and single point of contact (SPOC) for a bank-wide CI/CD migration to Azure DevOps, representing the group across all stakeholder forums.
+  - Devised the migration architecture and execution strategy for 2,000+ repositories and pipelines across all internal teams.
+  - Partnered with the central CI/CD platform team to co-develop build and deployment patterns that became the organizational standard.
+  - Uplifted engineering practices across multiple teams — hands-on mentoring on modern build/deploy workflows (Java, Docker, Helm, Ansible, Terraform) and driving security posture improvements during migration.
 
 - **Observability Platform**
-  - Lead a squad of 5 platform engineers.
-  - Designed and implemented the Telemetry Hub observability platform for SCB’s integration middleware.
-  - Built numerous microservices for Prometheus exporters, log-to-metrics streaming, and distributed tracing observability solutions.
-  - Managed 2TB logs/day and 50,000 events/sec.
-  - Deployed and maintained 4 Elasticsearch clusters (including 2 regional, localized clusters) with zero-downtime updates via Ansible.
-  - Orchestrated telemetry agents (Fluentd, FluentBit, Filebeat, etc.) on Kubernetes and integrated Kafka for telemetry streaming.
-  - Integrated OpenTelemetry and Elastic APM for end-to-end traceability.
+  - Conceived and led the creation of the Telemetry Hub — the centralized observability platform for SCB's integration middleware — defining the architecture, building the team, and driving a 5-engineer squad from design through production.
+  - Architected a high-throughput telemetry pipeline processing 2TB logs/day and 50,000 events/sec, becoming the single source of truth for operational insights.
+  - Designed and built microservices for Prometheus exporters, log-to-metrics streaming, and distributed tracing — establishing observability patterns adopted by adjacent teams.
+  - Deployed and maintained 4 Elasticsearch clusters (including 2 regional, localized clusters) with zero-downtime rolling updates via Ansible.
+  - Orchestrated a fleet of telemetry agents (Fluentd, FluentBit, Filebeat) on Kubernetes and integrated Kafka for scalable telemetry streaming.
+  - Integrated OpenTelemetry and Elastic APM for end-to-end distributed traceability across the middleware estate.
 
 ---
 
-### **Solutions Architect**  
-**PALO IT**  
+### **Solutions Architect**
+**PALO IT**
 *Jun 2017 – May 2018*
 
-- DevOps consultant for QA Testing team.
-- Solved performance bottlenecks in testing pipeline.
-- Deployed Selenium Grid on AWS via Terraform, launch hundreds of Selenium worker nodes, run selenium test, then shutdown.
-- Automated provisioning with Ansible. Optimize deployment of selenium with Packer.
-- Reduced test time from hours to 15 minutes.
-- Also, engage with DFS, and pilot Alibaba Kubernetes with one of the internal App Team.
+- Drove a DevOps consulting engagement end-to-end, diagnosing and resolving critical performance bottlenecks that had stalled the client's testing pipeline for months.
+- Architected an elastic Selenium Grid on AWS using Terraform — on-demand provisioning of hundreds of worker nodes with automated teardown — reducing test execution from hours to 15 minutes.
+- Established automated infrastructure patterns with Ansible and Packer that the client adopted as their standard provisioning workflow.
+- Engaged with DFS to evaluate and pilot Alibaba Kubernetes for internal application teams.
 
 ---
 
-### **Software Architect**  
+### **Software Architect**
 *May 2016 – Jun 2017*
 
-- Spearheaded DevOps practices and modernized monitoring with early adoption of Elasticsearch + Kibana and Prometheus for system observability.
-- Faciliate across teams, help to mentor junior software and qa folks.
-- Resolved critical latency and performance issues in real-time soccer trading systems built on Reactive Extensions (.NET) and Redis Queue.
-- Engineered web scraping pipelines to ingest soccer odds and event data feeds from multiple sources.
-- Collaborated with quantitative engineers to integrate punting decision algorithms into trading logic.
-
+- Pioneered DevOps practices and introduced production observability through early adoption of Elasticsearch, Kibana, and Prometheus — setting the monitoring standard for the engineering org.
+- Mentored junior software engineers and QA team members, driving cross-team technical collaboration.
+- Diagnosed and resolved critical latency issues in real-time soccer trading systems built on Reactive Extensions (.NET) and Redis queues.
+- Engineered data ingestion pipelines for odds and event feeds from multiple sources, collaborating with quantitative engineers to integrate decision algorithms into live trading logic.
 
 ---
 
-### **Software Engineer**  
-**Human Longevity, Inc.**  
+### **Software Engineer**
+**Human Longevity, Inc.**
 *Apr 2015 – May 2016*
 
-- Developed genomics data science platform.
+- Developed genomics data science platform for large-scale genomic data analysis.
 
 ---
 
-### **Software Engineer**  
+### **Software Engineer**
 *Jul 2012 – Apr 2015*
 
-- Built and optimized sports trading systems.
-- Developed and optimized C# 4.5 botnet-based trading applications.
-- Enabled automated trading systems managing multi-million dollar betting volumes across global soccer markets.
-- Built full stack frontend backend sports trading site, c#, angularjs, azure websites.
+- Architected and optimized high-frequency sports trading systems managing multi-million dollar betting volumes across global soccer markets.
+- Developed C# 4.5 distributed trading applications with automated execution capabilities.
+- Built full-stack sports trading platform using C#, AngularJS, and Azure.
 
-### **Software Engineer**  
+---
+
+### **Software Engineer**
 *Jan 2010 – Jun 2012*
 
-- Created .NET WPF applications for research and risk management.
+- Developed .NET WPF applications for research and risk management.
 
 ---
 
 ## **Education**
 
-- **University of Wollongong**  
+- **University of Wollongong**
   *Bachelor of Computer Science*
 
-- **Temasek Polytechnic**  
+- **Temasek Polytechnic**
   *Diploma in Information Technology*
