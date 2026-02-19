@@ -102,8 +102,8 @@ Rotated across six major platform initiatives, each time owning architecture and
 *Apr 2015 – May 2016*
 
 - Developed genomics data science platform for large-scale genomic data analysis.
-- Built a company-wide API gateway and API portal, automating integration between Human Longevity's internal systems and external insurance partners, streamlining stakeholder workflows.
-- Applied Domain-Driven Design and Test-Driven Development practices in .NET C# services deployed on AWS Elastic Beanstalk.
+- Built a company-wide API gateway and API portal using .NET C# and AngularJS, automating integration between Human Longevity's internal systems and external insurance partners, streamlining stakeholder workflows.
+- Applied Domain-Driven Design and Test-Driven Development practices, deployed on AWS Elastic Beanstalk.
 
 ---
 
