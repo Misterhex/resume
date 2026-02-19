@@ -96,6 +96,7 @@ Rotated across six major platform initiatives, each time owning architecture and
 **Human Longevity, Inc.**
 *Apr 2015 – May 2016*
 
+- Built a landing zone data gateway (HTTP and Kafka) to ingest raw DNA genomics sample datasets from partner clinical systems and trigger internal data workflows.
 - Developed genomics data science platform for large-scale genomic data analysis.
 - Built a company-wide API gateway and API portal using .NET C# and AngularJS, automating integration between Human Longevity's internal systems and external insurance partners, streamlining stakeholder workflows.
 - Applied Domain-Driven Design and Test-Driven Development practices, deployed on AWS Elastic Beanstalk.
