@@ -87,6 +87,7 @@ Rotated across six major platform initiatives, each time owning architecture and
 ---
 
 ### **Software Architect**
+**Maloft Pte Ltd**
 *May 2016 – Jun 2017*
 
 - Introduced DevOps practices and production observability through early adoption of Elasticsearch, Kibana, and Prometheus.
@@ -105,6 +106,7 @@ Rotated across six major platform initiatives, each time owning architecture and
 ---
 
 ### **Software Engineer**
+**Maloft Pte Ltd**
 *Jul 2012 – Apr 2015*
 
 - Architected and optimized high-frequency sports trading systems managing multi-million dollar volumes across global soccer markets.
