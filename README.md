@@ -11,7 +11,7 @@ Singapore
 ---
 
 ## **Summary**
-Senior Principal Engineer with 15+ years of experience setting technical direction for platform infrastructure, cloud-native architecture, and observability at scale. Proven ability to drive organization-wide technical strategy — from defining reference architectures adopted by 300+ application teams to building platforms processing 2TB+ daily. Operates at the intersection of deep technical expertise and cross-organizational influence, turning ambiguous infrastructure challenges into standardized, scalable platforms that multiply engineering velocity across the enterprise.
+Senior Principal Engineer with 15+ years of experience setting technical direction and leading engineering teams to deliver platform infrastructure, cloud-native architecture, and observability at scale. Equally effective defining the architecture and rallying teams to ship it — from designing reference architectures adopted by 300+ application teams to hands-on leadership of squads up to 12 engineers delivering organization-wide platform modernization. Operates at the intersection of deep technical expertise, cross-organizational influence, and execution leadership — turning ambiguous infrastructure challenges into standardized, scalable platforms that multiply engineering velocity across the enterprise.
 
 ---
 
@@ -21,6 +21,7 @@ Senior Principal Engineer with 15+ years of experience setting technical directi
 - **Event Streaming** — Driving the consolidation of all Kafka infrastructure into a single open-source platform serving the enterprise
 - **Developer Experience** — Shaped CI/CD patterns, deployment workflows, and Kubernetes developer platforms used by 100+ engineers daily
 - **Cloud Infrastructure** — Pioneered early cloud adoption patterns (Terraform, Ansible, AWS) that became foundational templates across the organization
+- **Technical Leadership** — Built, mentored, and led multiple engineering squads (4–12 engineers); uplifted engineering practices across teams through hands-on coaching on modern cloud-native toolchains
 
 ---
 
@@ -39,12 +40,12 @@ Senior Principal Engineer with 15+ years of experience setting technical directi
 
 - **Kafka OSS Platform Lead**
   - Set the technical vision and driving architecture for a bank-wide initiative to consolidate all disparate Kafka clusters into a single, unified open-source Apache Kafka platform.
-  - Own the architecture design, product backlog prioritization, and stakeholder alignment across multiple business units and engineering teams.
+  - Own the architecture design, product backlog prioritization, and stakeholder alignment across multiple business units and engineering teams — bridging technical depth with cross-functional coordination.
   - Defined the target-state architecture, migration strategy, and operational model to standardize event streaming infrastructure bank-wide.
   - Anchored the Data Engineering Platform team as the first major tenant, providing Kafka as the core messaging bus for the raw data landing zone ingestion pipeline.
 
 - **Platform Modernization & Datacenter Migration**
-  - Defined the technical strategy and led a 12-engineer squad to modernize a legacy enterprise service bus platform serving 300+ application teams bank-wide.
+  - Defined the technical strategy and led a 12-engineer squad end-to-end — from architecture through delivery — to modernize a legacy enterprise service bus platform serving 300+ application teams bank-wide.
   - Designed the target-state geo-resilient architecture — multi-site infrastructure with regional load balancing and DNS-based failover — evolving from single-datacenter to globally distributed topology.
   - Drove the full replatforming from legacy to cloud-native containerized solutions and orchestrated end-to-end traffic migration to new data centers with zero downtime.
   - Re-architected the observability stack on open-source technologies, establishing full operational visibility as a standard for the modernized platform.
@@ -52,13 +53,13 @@ Senior Principal Engineer with 15+ years of experience setting technical directi
   - Established standardized deployment pipelines targeting OpenShift (Kubernetes) via Helm 3 and RHEL9/Podman via Ansible, adopted as patterns by other teams.
 
 - **Core Runtime Kubernetes Platform**
-  - Owned the technical direction for the bank's Kubernetes developer platform, serving 100+ engineers across multiple product teams.
+  - Owned the technical direction and led a 7-engineer platform team for the bank's Kubernetes developer platform, serving 100+ engineers across multiple product teams.
   - Defined golden-path deployment workflows on OpenShift — CI/CD pipelines for Helm chart delivery, automated namespace provisioning, RBAC, resource quotas, SCC, NodePort, and CRD management — reducing onboarding time from weeks to days.
   - Established the observability pattern for OpenShift clusters, creating a standardized framework for application teams to integrate custom metrics.
   - Operated and secured 8 OpenShift clusters with multi-tenancy, security controls, and RBAC governance.
 
 - **Cloud Enablement**
-  - Pioneered the cloud enablement strategy for enterprise integration middleware, leading a 4-engineer squad through SCB's early cloud adoption.
+  - Pioneered the cloud enablement strategy for enterprise integration middleware — architected the solution and led a 4-engineer squad through execution during SCB's early cloud adoption.
   - Co-designed foundational Terraform modules with the central cloud team that became reusable templates across the organization.
   - Established post-provisioning patterns (Ansible pull, EC2 Auto Scaling Groups, cloud-init) that set the standard for automated infrastructure configuration bank-wide.
 
@@ -66,10 +67,10 @@ Senior Principal Engineer with 15+ years of experience setting technical directi
   - Served as the technical authority and single point of contact (SPOC) for a bank-wide CI/CD migration to Azure DevOps, representing the group across all stakeholder forums.
   - Devised the migration architecture and execution strategy for 2,000+ repositories and pipelines across all internal teams.
   - Partnered with the central CI/CD platform team to co-develop build and deployment patterns that became the organizational standard.
-  - Uplifted engineering practices across multiple teams — mentoring on modern build/deploy workflows (Java, Docker, Helm, Ansible, Terraform) and driving security posture improvements during migration.
+  - Uplifted engineering practices across multiple teams — hands-on mentoring on modern build/deploy workflows (Java, Docker, Helm, Ansible, Terraform) and driving security posture improvements during migration.
 
 - **Observability Platform**
-  - Conceived and led the creation of the Telemetry Hub — the centralized observability platform for SCB's integration middleware — defining the architecture and leading a 5-engineer squad.
+  - Conceived and led the creation of the Telemetry Hub — the centralized observability platform for SCB's integration middleware — defining the architecture, building the team, and driving a 5-engineer squad from design through production.
   - Architected a high-throughput telemetry pipeline processing 2TB logs/day and 50,000 events/sec, becoming the single source of truth for operational insights.
   - Designed and built microservices for Prometheus exporters, log-to-metrics streaming, and distributed tracing — establishing observability patterns adopted by adjacent teams.
   - Deployed and maintained 4 Elasticsearch clusters (including 2 regional, localized clusters) with zero-downtime rolling updates via Ansible.
