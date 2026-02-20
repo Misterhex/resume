@@ -11,16 +11,16 @@ Singapore
 
 ## **Summary**
 
-Staff platform engineer with 15+ years of experience building internal developer platforms at enterprise scale — still hands-on writing Go controllers, Java pipelines, and Terraform modules alongside leading squads of 4–12 engineers. At Standard Chartered, owned six platform initiatives that eliminated $2.5M/year in licensing, enabled 300+ teams to shift from monthly to weekly releases, and improved platform availability from 99.5% to 99.95%. Presented the platform modernization strategy to the Technology Council, securing multi-year investment.
+Staff platform engineer with 15+ years of experience building internal developer platforms at enterprise scale — still hands-on writing Java pipelines, Kubernetes controllers, and Terraform modules alongside leading squads of 4–12 engineers. At Standard Chartered, owned six platform initiatives that eliminated $2.5M/year in licensing, enabled 300+ teams to shift from monthly to weekly releases, and improved platform availability from 99.5% to 99.95%. Presented the platform modernization strategy to the Technology Council, securing multi-year investment.
 
 
 ## **Areas of Depth**
-**Kubernetes platforms:** Designed and operated 8 OpenShift clusters (400+ nodes, 6,000+ pods); built admission controllers, RBAC engines, and namespace provisioning in Go.
+**Kubernetes platforms:** Designed and operated 8 OpenShift clusters (400+ nodes, 6,000+ pods); built admission controllers, RBAC engines, and namespace provisioning automation.
 **Kafka at scale:** Consolidated 14 clusters onto OSS Kafka; capacity planning for 500K msg/sec; MirrorMaker 2 cross-DC replication; schema registry governance.
 **Observability & SRE:** Built telemetry pipelines (2 TB/day, 50K events/sec); Prometheus + Grafana + OpenTelemetry; SLO/error budget frameworks; on-call ownership.
 **IaC & Cloud:** Authored 12 foundational Terraform modules (200+ consumers); Ansible fleet automation; AWS (EC2, EKS, S3, IAM).
 **CI/CD & IDP:** Migrated 2,000+ repos to Azure DevOps; ArgoCD evaluation; platform-as-a-product approach to developer experience.
-**Languages:** Go · Java · C# / .NET · Python · HCL · Bash
+**Languages:** Java · C# / .NET · Python · HCL · Bash
 
 
 ## **Experience**
@@ -50,7 +50,7 @@ Technical IC lead across six major platform initiatives — owning architecture,
 
 - **Core Runtime Kubernetes Platform** *(2020 – 2022)*
   - Owned the Internal Developer Platform (IDP) serving 300+ engineers, 8 OpenShift clusters (400+ nodes, 6,000+ pods, 99.9% availability) — chose OpenShift over EKS to meet on-prem compliance requirements while providing a consistent developer experience across environments.
-  - Led a 7-engineer team; personally wrote the namespace provisioning controller (Go), RBAC policy engine, and resource quota admission webhooks that automated 80% of previously manual platform requests.
+  - Led a 7-engineer team; personally wrote the namespace provisioning controller, RBAC policy engine, and resource quota admission webhooks that automated 80% of previously manual platform requests.
   - Defined standardized deployment workflows (Helm, namespace provisioning, SCC, CRD management) — reducing deployment time from 45 min to 8 min. Authored the ArgoCD/GitOps technical recommendation adopted by the platform org for next-generation rollout.
   - Built platform observability (Prometheus + Grafana) for 8 OpenShift clusters; established SLO dashboards tracking DORA metrics — improved tenant deployment frequency from 2/month to 8/month and reduced change failure rate from 25% to 8%.
   - Improved cluster utilization from 35% to 72% through resource quota tuning and bin-packing optimizations, avoiding $500K in planned capacity expansion.
