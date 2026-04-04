@@ -33,14 +33,10 @@ Technical IC lead across six major platform initiatives — owning architecture,
 
 #### **Key Projects & Impact**
 
-- **Kafka OSS Platform** *(2024 – Present)*
-  - Technical lead for consolidating 14 Kafka clusters (Confluent, MSK, self-managed) onto a single OSS platform, unblocking the Data Engineering team's real-time analytics roadmap. Chose OSS over Confluent to eliminate $1.2M/year in licensing. Built consensus across 6 business units with competing vendor preferences by demonstrating operational parity through a proof-of-concept.
-  - Personally wrote the cluster provisioning automation (Terraform + Ansible), consumer lag monitoring exporters (Java), and MirrorMaker 2 replication topologies for cross-DC failover.
-  - Designed capacity planning model based on partition-level throughput profiling; right-sized broker fleets to handle 500K messages/sec peak with 30% headroom, reducing infrastructure spend by 40%.
-  - Migrated first anchor tenant (120+ topics, 2 TB/day) with zero message loss via blue-green cutover. Discovered a schema compatibility gap that would have broken 30+ consumers — built an automated validation gate to catch future mismatches.
-  - Defined SLOs (99.95% availability, <10ms p99 produce latency) with error budget burn-rate alerting. Carry on-call pager; led incident response for 3 broker failures, each resolved within SLA.
+- **Kafka Platform** *(Jan 2026 – Present)*
+  - Leading the bank-wide Kafka platform initiative — consolidating all existing Kafka infrastructure across Standard Chartered onto a unified, centrally managed platform. Driving workload migration from legacy and siloed clusters into the current platform to standardize operations, reduce sprawl, and improve governance at scale.
 
-- **Platform Modernization & Datacenter Migration** *(2022 – 2024)*
+- **Platform Modernization & Datacenter Migration** *(2022 – 2025)*
   - Led a 12-engineer squad modernizing a legacy integration platform serving 300+ application teams — reducing platform incidents by 65% (from ~20/month to ~7/month) and unblocking the retail banking division's target of weekly releases (up from monthly).
   - Designed geo-resilient, multi-site architecture — chose DNS-based failover over BGP anycast for simplicity and auditability in a regulated environment where change-control overhead for network-layer changes was 3x higher.
   - Personally wrote Helm charts, Ansible playbooks, and rollback automation. Executed the production cutover hands-on; hit a critical LDAP sync failure mid-migration blocking 40 services — diagnosed root cause (stale connection pool config) and patched live within the change window.
