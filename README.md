@@ -34,7 +34,7 @@ Technical IC lead across six major platform initiatives — owning architecture,
 #### **Key Projects & Impact**
 
 - **Kafka Platform** *(Jan 2026 – Present)*
-  - Leading the build-up and consolidation of all existing Kafka infrastructure across SCB bank, migrating workloads onto the current platform.
+  - Leading the bank-wide Kafka platform initiative — consolidating all existing Kafka infrastructure across Standard Chartered onto a unified, centrally managed platform. Driving workload migration from legacy and siloed clusters into the current platform to standardize operations, reduce sprawl, and improve governance at scale.
 
 - **Platform Modernization & Datacenter Migration** *(2022 – 2025)*
   - Led a 12-engineer squad modernizing a legacy integration platform serving 300+ application teams — reducing platform incidents by 65% (from ~20/month to ~7/month) and unblocking the retail banking division's target of weekly releases (up from monthly).
