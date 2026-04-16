@@ -37,26 +37,26 @@ Platform engineering lead across six major platform initiatives — owning archi
   - Leading the build-out of an Apache Kafka (open-source) platform to standardize event streaming across the bank — replacing fragmented vendor-based solutions with a unified, centrally managed streaming platform.
 
 - **ESB Platform Modernization & Datacenter Migrations** *(May 2018 – Jan 2026)*
-  - Modernized the bank's org-wide enterprise service bus (ESB), processing thousands of mission-critical transactions daily across hundreds of applications.
+  - Led the engineering team modernizing the bank's org-wide enterprise service bus (ESB), processing thousands of mission-critical transactions daily across hundreds of applications.
   - Containerized the platform into a cloud-native architecture running on both Kubernetes and Podman.
   - Planned and executed multi-datacenter migrations and expansions — designed cutover strategies using brown/green deployments, DNS routing, and cross-geo traffic management.
   - Rebuilt the observability stack, build and deploy pipelines, and simplified the overall architecture.
 
 - **CI/CD Platform Migration**
-  - Coordinated across multiple teams to migrate thousands of repositories and pipelines to Azure DevOps.
+  - Led and coordinated across multiple teams to migrate thousands of repositories and pipelines to Azure DevOps.
   - Defined build and deploy standards across Java, Gradle, Docker, Helm, Ansible, and Terraform.
 
 - **Kubernetes Runtime Platform**
-  - Defined multi-tenancy application deployment paths on OpenShift Kubernetes.
+  - Led engineering team to define multi-tenancy application deployment paths on OpenShift Kubernetes.
   - Built CI/CD pipelines for Helm-based deployment, namespace automation, and RBAC controls.
   - Provided out-of-the-box observability and custom CRD support across clusters.
 
 - **Cloud Pilot**
-  - Piloted cloud deployments for platform services on AWS.
+  - Led engineering team to pilot cloud deployments for platform services on AWS.
   - Co-developed Terraform modules and implemented provisioning with Ansible and cloud-init.
 
 - **Observability Platform**
-  - Built the bank's observability platform for logs, metrics, and traces.
+  - Led engineering team to build the bank's observability platform for logs, metrics, and traces.
   - Managed high-volume ingestion of logs and events across multiple middleware platforms.
   - Operated Elasticsearch clusters with zero-downtime upgrades.
   - Integrated Fluentd, Elastic Beats, FluentBit, and OpenTelemetry with Strimzi Kafka as the telemetry bus.
