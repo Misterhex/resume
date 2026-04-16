@@ -29,7 +29,7 @@ Platform engineering lead with 15+ years of experience building and operating in
 **Standard Chartered** · *8 years*
 *May 2018 – Present*
 
-Platform engineering lead across six major platform initiatives — owning architecture, hands-on delivery. Top grades yearly, promoted three times (AVP → VP → SVP, equivalent to Senior → Lead → Staff scope). Grew engineers from junior to mid-level to senior, gave them ownership and sponsored them for promotions.
+Platform engineering lead across six major platform initiatives — owning architecture, hands-on delivery. Achieved top performance grading yearly, promoted three times (AVP → VP → SVP, equivalent to Senior → Lead → Staff scope). Grew engineers from junior to mid-level to senior, gave them ownership and sponsored them for promotions.
 
 #### **Key Projects**
 
