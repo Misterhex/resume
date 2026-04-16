@@ -26,7 +26,7 @@ Platform engineering lead with 15+ years of experience building and operating in
 ## **Experience**
 
 ### **Platform Engineering Lead**
-**Standard Chartered** · *8 years*
+**Standard Chartered** · *(8 years)*
 *May 2018 – Present*
 
 Platform engineering lead across six major platform initiatives — owning architecture, hands-on delivery. Achieved top performance grading yearly, promoted three times (AVP → VP → SVP, equivalent to Senior → Lead → Staff scope). Grew engineers from junior to mid-level to senior, gave them ownership and sponsored them for promotions.
@@ -64,28 +64,28 @@ Platform engineering lead across six major platform initiatives — owning archi
 
 
 ### **DevOps Lead**
-**PALO IT** · *1 year*
+**PALO IT** · *(1 year)*
 *Jun 2017 – May 2018*
 
 - Consulted on DevOps transformation projects — devised containerization strategies and implemented automated testing frameworks to improve deployment efficiency.
 
 
 ### **Software Architect**
-**Maloft Pte Ltd** · *1 year 2 months*
+**Maloft Pte Ltd** · *(1 year 2 months)*
 *May 2016 – Jun 2017*
 
 - Technical lead for high-performance sports trading platforms. Optimized system reliability and scalability.
 
 
 ### **Software Engineer**
-**Human Longevity, Inc.** · *1 year 2 months*
+**Human Longevity, Inc.** · *(1 year 2 months)*
 *Apr 2015 – May 2016*
 
 - Developed a genomics data science platform, providing researchers with analytics tools and data insights. (.NET, C#)
 
 
 ### **Software Engineer**
-**Maloft Pte Ltd** · *2 years 10 months*
+**Maloft Pte Ltd** · *(2 years 10 months)*
 *Jul 2012 – Apr 2015*
 
 - Developed and optimized sports trading systems, improving trading performance. (.NET, C#)
