@@ -26,15 +26,17 @@ Platform engineering lead with 15+ years of experience building and operating in
 ## **Experience**
 
 ### **Platform Engineering Lead**
-**Standard Chartered**
+**Standard Chartered** · *8 years*
 *May 2018 – Present*
+
+Platform engineering lead across six major platform initiatives — owning architecture, hands-on delivery. Top grades yearly, promoted three times (AVP → VP → SVP, equivalent to Senior → Lead → Staff scope). Grew engineers from junior to mid-level to senior, gave them ownership and sponsored them for promotions.
 
 #### **Key Projects**
 
-- **Kafka Messaging Platform** *(Jan 2026 – Present)*
+- **Kafka Messaging Platform** *(Jan 2026 – Present · 4 months)*
   - Leading the build-out of an Apache Kafka (open-source) platform to standardize event streaming across the bank — replacing fragmented vendor-based solutions with a unified, centrally managed streaming platform.
 
-- **ESB Platform Modernization & Datacenter Migrations** *(May 2018 – Jan 2026)*
+- **ESB Platform Modernization & Datacenter Migrations** *(May 2018 – Jan 2026 · 7 years 9 months)*
   - Led the engineering team modernizing the bank's org-wide enterprise service bus (ESB), which processes thousands of mission-critical transactions daily across hundreds of applications.
   - Containerized the platform into a cloud-native architecture running on both Kubernetes and Podman.
   - Planned and executed multi-datacenter migrations and expansions, designing cutover strategies including brown/green deployments, DNS routing, and cross-geo traffic management.
@@ -62,28 +64,28 @@ Platform engineering lead with 15+ years of experience building and operating in
 
 
 ### **DevOps Lead**
-**PALO IT**
+**PALO IT** · *1 year*
 *Jun 2017 – May 2018*
 
 - Consulted on DevOps transformation projects — devised containerization strategies and implemented automated testing frameworks to improve deployment efficiency.
 
 
 ### **Software Architect**
-**Maloft Pte Ltd**
+**Maloft Pte Ltd** · *1 year 2 months*
 *May 2016 – Jun 2017*
 
 - Technical lead for high-performance sports trading platforms. Optimized system reliability and scalability.
 
 
 ### **Software Engineer**
-**Human Longevity, Inc.**
+**Human Longevity, Inc.** · *1 year 2 months*
 *Apr 2015 – May 2016*
 
 - Developed a genomics data science platform, providing researchers with analytics tools and data insights. (.NET, C#)
 
 
 ### **Software Engineer**
-**Maloft Pte Ltd**
+**Maloft Pte Ltd** · *2 years 10 months*
 *Jul 2012 – Apr 2015*
 
 - Developed and optimized sports trading systems, improving trading performance. (.NET, C#)
