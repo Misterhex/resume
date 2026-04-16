@@ -11,7 +11,7 @@ Singapore
 
 ## **Summary**
 
-Platform engineering lead with 15+ years of experience building and operating internal platforms at enterprise scale. At Standard Chartered, led engineering teams across six platform initiatives — modernizing the bank's enterprise service bus, building Kubernetes and observability platforms, piloting cloud adoption, and migrating CI/CD infrastructure. Currently leading the bank-wide Apache Kafka platform consolidation.
+Platform engineering lead with 15+ years of experience building and operating internal platforms in regulated, enterprise environments. At Standard Chartered, led engineering teams across six platform initiatives — modernizing the bank's enterprise service bus, building Kubernetes and observability platforms, piloting cloud adoption, and migrating CI/CD infrastructure. Currently leading the bank-wide consolidation of Kafka event streaming onto a unified open-source platform.
 
 
 ## **Areas of Depth**
@@ -32,32 +32,32 @@ Platform engineering lead with 15+ years of experience building and operating in
 #### **Key Projects**
 
 - **Kafka Messaging Platform** *(Jan 2026 – Present)*
-  - Leading the build-out of Apache Kafka (open-source) platform to standardize event streaming across the bank, transitioning from fragmented vendor-based solutions to a unified consolidated Kafka streaming platform.
+  - Leading the build-out of an Apache Kafka (open-source) platform to standardize event streaming across the bank — replacing fragmented vendor-based solutions with a unified, centrally managed streaming platform.
 
 - **ESB Platform Modernization & Datacenter Migrations** *(May 2018 – Jan 2026)*
-  - Led the engineering team responsible for modernizing the bank's org-wide enterprise service bus (ESB) which processes thousands of mission-critical transactions daily by hundreds of apps.
-  - Transformed it into a containerized cloud-native platform running on both Kubernetes and Podman.
-  - Planned multi-datacenter migrations and expansions of the modernized ESB stack, designing cutover strategies (brown/green deployments, DNS routing, cross-geo traffic management).
-  - Rebuilt the entire observability stack, re-platformed on containers, rebuilt all build and deploy pipelines, and simplified the architecture.
+  - Led the engineering team modernizing the bank's org-wide enterprise service bus (ESB), which processes thousands of mission-critical transactions daily across hundreds of applications.
+  - Containerized the platform into a cloud-native architecture running on both Kubernetes and Podman.
+  - Planned and executed multi-datacenter migrations and expansions, designing cutover strategies including brown/green deployments, DNS routing, and cross-geo traffic management.
+  - Rebuilt the observability stack, build and deploy pipelines, and simplified the overall architecture.
 
 - **CI/CD Platform Migration**
-  - Led and coordinated across multiple teams for the migration of thousands of repositories and pipelines to the bank's new CI/CD platform based on Azure DevOps.
-  - Defined build/deploy standards (Java, Gradle, Docker, Helm, Ansible, Terraform).
+  - Coordinated across multiple teams to migrate thousands of repositories and pipelines to the bank's new CI/CD platform on Azure DevOps.
+  - Defined build and deploy standards across Java, Gradle, Docker, Helm, Ansible, and Terraform.
 
 - **Kubernetes Runtime Platform**
-  - Led engineering team to define paths for multi-tenancy application deployment on OpenShift Kubernetes.
+  - Led engineering team to define multi-tenancy application deployment on OpenShift Kubernetes.
   - Built CI/CD pipelines for Helm-based deployment, namespace automation, and RBAC controls.
   - Provided out-of-the-box observability and custom CRD support across clusters.
 
 - **Cloud Pilot**
-  - Led engineering team to pilot cloud deployments for platform services.
+  - Led engineering team to pilot cloud deployments for platform services on AWS.
   - Co-developed Terraform modules and implemented provisioning with Ansible and cloud-init.
 
 - **Observability Platform**
-  - Led engineering team to build the observability platform for logs, metrics, and traces.
+  - Led engineering team to build the bank's observability platform for logs, metrics, and traces.
   - Managed high-volume ingestion of logs and events across multiple middleware platforms.
   - Operated Elasticsearch clusters with zero-downtime upgrades.
-  - Integrated Fluentd/Elastic Beats/FluentBit/OpenTelemetry with Strimzi Kafka as telemetry bus.
+  - Integrated Fluentd, Elastic Beats, FluentBit, and OpenTelemetry with Strimzi Kafka as the telemetry bus.
   - Enabled full-stack traceability via OpenTelemetry and Elastic APM.
 
 
@@ -65,28 +65,28 @@ Platform engineering lead with 15+ years of experience building and operating in
 **PALO IT**
 *Jun 2017 – May 2018*
 
-- Consulted on DevOps transformation projects, devising containerization strategies and implementing automated testing frameworks to enhance software deployment efficiency.
+- Consulted on DevOps transformation projects — devised containerization strategies and implemented automated testing frameworks to improve deployment efficiency.
 
 
 ### **Software Architect**
 **Maloft Pte Ltd**
 *May 2016 – Jun 2017*
 
-- Software architect and technical lead for high-performance solutions. Executed system optimizations for sports trading platforms, driving enhanced reliability and scalability.
+- Technical lead for high-performance sports trading platforms. Optimized system reliability and scalability.
 
 
 ### **Software Engineer**
 **Human Longevity, Inc.**
 *Apr 2015 – May 2016*
 
-- Developed a genomics data science platform, providing researchers with analytics tools and data insights.
+- Developed a genomics data science platform, providing researchers with analytics tools and data insights. (.NET, C#)
 
 
 ### **Software Engineer**
 **Maloft Pte Ltd**
 *Jul 2012 – Apr 2015*
 
-- Lead software engineer for development and optimization of sports trading systems, contributing to increased trading performance.
+- Developed and optimized sports trading systems, improving trading performance. (.NET, C#)
 
 
 ## **Education**
