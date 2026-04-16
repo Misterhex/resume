@@ -51,6 +51,13 @@ jobs:
           </body>
           </html>
           EOF
+          echo ""
+          echo "========================================="
+          echo "📄 Download links:"
+          echo "  PDF:      https://misterhex.github.io/resume/resume-${HASH}.pdf"
+          echo "  Markdown: https://misterhex.github.io/resume/resume-${HASH}.md"
+          echo "  Page:     https://misterhex.github.io/resume/"
+          echo "========================================="
 
       - uses: actions/upload-pages-artifact@v3
         with:
