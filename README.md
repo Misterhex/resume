@@ -11,15 +11,15 @@ Singapore
 
 ## **Summary**
 
-Platform engineering lead with 15+ years of experience building and operating internal platforms in regulated, enterprise environments. At Standard Chartered, led engineering teams across six platform initiatives — modernizing the bank's enterprise service bus, building Kubernetes and observability platforms, piloting cloud adoption, and migrating CI/CD infrastructure. Currently leading the bank-wide consolidation of Kafka event streaming onto a unified open-source platform.
+Platform engineering lead with 15+ years of experience. 8 years at Standard Chartered leading platform teams across ESB modernization, Kubernetes, observability, CI/CD, and cloud initiatives. Currently leading the bank-wide Kafka platform consolidation.
 
 
-## **Areas of Depth**
-**Kubernetes platforms:** Multi-tenancy on OpenShift; Helm-based deployment, namespace automation, RBAC controls, custom CRDs.
-**Kafka:** Building out OSS Kafka platform; consolidating fragmented vendor-based clusters into a unified streaming platform.
-**Observability:** Elasticsearch, Fluentd/FluentBit, OpenTelemetry, Elastic APM, Strimzi Kafka as telemetry bus.
-**IaC & Cloud:** Terraform modules, Ansible, cloud-init; piloted cloud deployments on AWS.
-**CI/CD:** Migrated thousands of repositories and pipelines to Azure DevOps; defined build/deploy standards (Java, Gradle, Docker, Helm, Ansible, Terraform).
+## **Skills**
+**Platforms:** OpenShift, Kubernetes, Podman, Helm, ArgoCD
+**Streaming:** Apache Kafka, Strimzi, Schema Registry
+**Observability:** Elasticsearch, Fluentd, FluentBit, OpenTelemetry, Elastic APM, Prometheus, Grafana
+**IaC & Cloud:** Terraform, Ansible, AWS (Elastic Beanstalk, ALB, EC2, S3), cloud-init
+**CI/CD:** Azure DevOps, Jenkins, Gradle, Docker
 **Languages:** Java · C# / .NET · Python · HCL · Bash
 
 
@@ -37,26 +37,26 @@ Platform engineering lead across six major platform initiatives — owning archi
   - Leading the build-out of an Apache Kafka (open-source) platform to standardize event streaming across the bank — replacing fragmented vendor-based solutions with a unified, centrally managed streaming platform.
 
 - **ESB Platform Modernization & Datacenter Migrations** *(May 2018 – Jan 2026)*
-  - Led the engineering team modernizing the bank's org-wide enterprise service bus (ESB), which processes thousands of mission-critical transactions daily across hundreds of applications.
+  - Modernized the bank's org-wide enterprise service bus (ESB), processing thousands of mission-critical transactions daily across hundreds of applications.
   - Containerized the platform into a cloud-native architecture running on both Kubernetes and Podman.
-  - Planned and executed multi-datacenter migrations and expansions, designing cutover strategies including brown/green deployments, DNS routing, and cross-geo traffic management.
+  - Planned and executed multi-datacenter migrations and expansions — designed cutover strategies using brown/green deployments, DNS routing, and cross-geo traffic management.
   - Rebuilt the observability stack, build and deploy pipelines, and simplified the overall architecture.
 
 - **CI/CD Platform Migration**
-  - Coordinated across multiple teams to migrate thousands of repositories and pipelines to the bank's new CI/CD platform on Azure DevOps.
+  - Coordinated across multiple teams to migrate thousands of repositories and pipelines to Azure DevOps.
   - Defined build and deploy standards across Java, Gradle, Docker, Helm, Ansible, and Terraform.
 
 - **Kubernetes Runtime Platform**
-  - Led engineering team to define multi-tenancy application deployment on OpenShift Kubernetes.
+  - Defined multi-tenancy application deployment paths on OpenShift Kubernetes.
   - Built CI/CD pipelines for Helm-based deployment, namespace automation, and RBAC controls.
   - Provided out-of-the-box observability and custom CRD support across clusters.
 
 - **Cloud Pilot**
-  - Led engineering team to pilot cloud deployments for platform services on AWS.
+  - Piloted cloud deployments for platform services on AWS.
   - Co-developed Terraform modules and implemented provisioning with Ansible and cloud-init.
 
 - **Observability Platform**
-  - Led engineering team to build the bank's observability platform for logs, metrics, and traces.
+  - Built the bank's observability platform for logs, metrics, and traces.
   - Managed high-volume ingestion of logs and events across multiple middleware platforms.
   - Operated Elasticsearch clusters with zero-downtime upgrades.
   - Integrated Fluentd, Elastic Beats, FluentBit, and OpenTelemetry with Strimzi Kafka as the telemetry bus.
@@ -67,21 +67,24 @@ Platform engineering lead across six major platform initiatives — owning archi
 **PALO IT** · *(1 year)*
 *Jun 2017 – May 2018*
 
-- Consulted on DevOps transformation projects — devised containerization strategies and implemented automated testing frameworks to improve deployment efficiency.
+- Built CI/CD pipelines using Terraform on AWS that provision ephemeral Selenium Grid clusters for parallel automated UI testing, tearing down infrastructure after completion.
+- Reduced UI test runs from days to minutes.
 
 
 ### **Software Architect**
 **Maloft Pte Ltd** · *(1 year 2 months)*
 *May 2016 – Jun 2017*
 
-- Technical lead for high-performance sports trading platforms. Optimized system reliability and scalability.
+- Introduced monitoring with Prometheus and ELK to instrument and measure performance of soccer trading systems.
+- Converted codebases to async I/O for all I/O calls and parallelized concurrent operations, improving system throughput. (.NET, .NET Core)
 
 
 ### **Software Engineer**
 **Human Longevity, Inc.** · *(1 year 2 months)*
 *Apr 2015 – May 2016*
 
-- Developed a genomics data science platform, providing researchers with analytics tools and data insights. (.NET, C#)
+- Full-stack development on a genomics data science platform using AngularJS and .NET.
+- Deployed on AWS (Elastic Beanstalk, ALB). (.NET, C#)
 
 
 ### **Software Engineer**
