@@ -14,14 +14,6 @@ Singapore
 Platform engineering lead with 15+ years of experience. 8 years at Standard Chartered leading platform teams across ESB modernization, Kubernetes, observability, CI/CD, and cloud initiatives. Currently leading the bank-wide Kafka platform consolidation.
 
 
-## **Skills**
-**Platforms:** OpenShift, Kubernetes, Podman, Helm, ArgoCD
-**Streaming:** Apache Kafka, Strimzi, Schema Registry
-**Observability:** Elasticsearch, Fluentd, FluentBit, OpenTelemetry, Elastic APM, Prometheus, Grafana
-**IaC & Cloud:** Terraform, Ansible, AWS (Elastic Beanstalk, ALB, EC2, S3), cloud-init
-**CI/CD:** Azure DevOps, Jenkins, Gradle, Docker
-**Languages:** Java · C# / .NET · Python · HCL · Bash
-
 
 ## **Experience**
 
