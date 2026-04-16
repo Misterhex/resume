@@ -33,10 +33,10 @@ Platform engineering lead across six major platform initiatives — owning archi
 
 #### **Key Projects**
 
-- **Kafka Messaging Platform** *(Jan 2026 – Present · 4 months)*
+- **Kafka Messaging Platform** *(Jan 2026 – Present)*
   - Leading the build-out of an Apache Kafka (open-source) platform to standardize event streaming across the bank — replacing fragmented vendor-based solutions with a unified, centrally managed streaming platform.
 
-- **ESB Platform Modernization & Datacenter Migrations** *(May 2018 – Jan 2026 · 7 years 9 months)*
+- **ESB Platform Modernization & Datacenter Migrations** *(May 2018 – Jan 2026)*
   - Led the engineering team modernizing the bank's org-wide enterprise service bus (ESB), which processes thousands of mission-critical transactions daily across hundreds of applications.
   - Containerized the platform into a cloud-native architecture running on both Kubernetes and Podman.
   - Planned and executed multi-datacenter migrations and expansions, designing cutover strategies including brown/green deployments, DNS routing, and cross-geo traffic management.
