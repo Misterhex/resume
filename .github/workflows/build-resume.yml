@@ -39,14 +39,15 @@ jobs:
           mkdir -p _site
           cp README.md _site/resume.md
           cp resume.pdf _site/resume.pdf
-          cat > _site/index.html <<'EOF'
+          HASH=$(git rev-parse --short HEAD)
+          cat > _site/index.html <<EOF
           <!DOCTYPE html>
           <html>
           <head><title>Resume - Tan Yong Heng</title></head>
           <body style="font-family: sans-serif; max-width: 600px; margin: 80px auto; text-align: center;">
             <h1>Resume</h1>
-            <p><a href="resume.pdf">Download PDF</a></p>
-            <p><a href="resume.md">Download Markdown</a></p>
+            <p><a href="resume.pdf?v=${HASH}">Download PDF</a></p>
+            <p><a href="resume.md?v=${HASH}">Download Markdown</a></p>
           </body>
           </html>
           EOF
